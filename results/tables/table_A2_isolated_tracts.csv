@@ -1,0 +1,10 @@
+tract,county_name,density_q,C000,hhi,hhi_percentile,is_9800_series,top3_sectors
+25025981800,Suffolk County,Q4_high,1765,0.8960923911830995,99.7496871088861,True,Education 94.6%; Arts/Rec 3.6%; Health/Social 0.8%
+25025981300,Suffolk County,Q4_high,12765,0.581541754515514,96.43304130162703,True,Transport/Warehouse 74.3%; Accommodation/Food 16.1%; Real Estate 4.8%
+25025081001,Suffolk County,Q4_high,48020,0.5149079701735277,95.18147684605756,False,Health/Social 69.3%; Education 15.3%; Prof/Sci/Tech 10.4%
+25025981900,Suffolk County,Q4_high,590,0.5053551020067464,94.55569461827284,True,Utilities 65.6%; Manufacturing 26.6%; Arts/Rec 6.1%
+25025981502,Suffolk County,Q3,821,0.3340447225563905,85.48185231539425,True,Retail 52.8%; Accommodation/Food 19.6%; Wholesale 9.0%
+25027732001,Worcester County,Q3,427,0.2567373764808845,73.21652065081352,False,Health/Social 34.9%; Management 30.6%; Other Services 18.4%
+25013812104,Hampden County,Q3,1615,0.21050727448775344,59.011264080100126,False,Utilities 37.7%; Education 18.3%; Health/Social 13.9%
+25005651900,Bristol County,Q4_high,1008,0.16983839322905664,41.989987484355446,False,Manufacturing 24.2%; Wholesale 23.2%; Accommodation/Food 18.8%
+25025080401,Suffolk County,Q4_high,1012,0.16019434339862323,34.91864831038799,False,Management 26.0%; Health/Social 24.0%; Other Services 10.9%

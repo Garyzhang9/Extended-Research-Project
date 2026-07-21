@@ -1,0 +1,2021 @@
+"sector","industry","density_q","r_m","M_obs"
+"CNS05","Manufacturing","Q1_low",0,0
+"CNS05","Manufacturing","Q1_low",50,0
+"CNS05","Manufacturing","Q1_low",100,0.0078632114406748
+"CNS05","Manufacturing","Q1_low",150,0.0641576730554079
+"CNS05","Manufacturing","Q1_low",200,0.0861402856969301
+"CNS05","Manufacturing","Q1_low",250,0.125072585071098
+"CNS05","Manufacturing","Q1_low",300,0.172301927704136
+"CNS05","Manufacturing","Q1_low",350,0.25871595375427
+"CNS05","Manufacturing","Q1_low",400,0.293428016087588
+"CNS05","Manufacturing","Q1_low",450,0.383899447528917
+"CNS05","Manufacturing","Q1_low",500,0.427887655641854
+"CNS05","Manufacturing","Q1_low",550,0.467337147680517
+"CNS05","Manufacturing","Q1_low",600,0.52400803256444
+"CNS05","Manufacturing","Q1_low",650,0.541964141252052
+"CNS05","Manufacturing","Q1_low",700,0.572484256889217
+"CNS05","Manufacturing","Q1_low",750,0.656172454780814
+"CNS05","Manufacturing","Q1_low",800,0.70294301069983
+"CNS05","Manufacturing","Q1_low",850,0.728963000362668
+"CNS05","Manufacturing","Q1_low",900,0.757200104550928
+"CNS05","Manufacturing","Q1_low",950,0.757103941281634
+"CNS05","Manufacturing","Q1_low",1000,0.790199673853563
+"CNS05","Manufacturing","Q1_low",1050,0.800625848416758
+"CNS05","Manufacturing","Q1_low",1100,0.812078592811674
+"CNS05","Manufacturing","Q1_low",1150,0.826012080342284
+"CNS05","Manufacturing","Q1_low",1200,0.865493053464256
+"CNS05","Manufacturing","Q1_low",1250,0.883977242821558
+"CNS05","Manufacturing","Q1_low",1300,0.891773619698508
+"CNS05","Manufacturing","Q1_low",1350,0.921393288118096
+"CNS05","Manufacturing","Q1_low",1400,0.926019632911463
+"CNS05","Manufacturing","Q1_low",1450,0.935466542695078
+"CNS05","Manufacturing","Q1_low",1500,0.937766951085421
+"CNS05","Manufacturing","Q1_low",1550,0.941081616169116
+"CNS05","Manufacturing","Q1_low",1600,0.941660180523957
+"CNS05","Manufacturing","Q1_low",1650,0.948895913009494
+"CNS05","Manufacturing","Q1_low",1700,0.960644052076888
+"CNS05","Manufacturing","Q1_low",1750,0.968316275467678
+"CNS05","Manufacturing","Q1_low",1800,0.976364464059226
+"CNS05","Manufacturing","Q1_low",1850,0.97737514399499
+"CNS05","Manufacturing","Q1_low",1900,0.967278719517574
+"CNS05","Manufacturing","Q1_low",1950,0.977422300487246
+"CNS05","Manufacturing","Q1_low",2000,0.997171386501445
+"CNS05","Manufacturing","Q1_low",2050,0.99813421288145
+"CNS05","Manufacturing","Q1_low",2100,1.00349816548026
+"CNS05","Manufacturing","Q1_low",2150,1.00283650493582
+"CNS05","Manufacturing","Q1_low",2200,1.01863653429792
+"CNS05","Manufacturing","Q1_low",2250,1.01444505378173
+"CNS05","Manufacturing","Q1_low",2300,1.01040061741571
+"CNS05","Manufacturing","Q1_low",2350,1.01821621463163
+"CNS05","Manufacturing","Q1_low",2400,1.01214836367903
+"CNS05","Manufacturing","Q1_low",2450,1.01840585839718
+"CNS05","Manufacturing","Q1_low",2500,1.03394399298748
+"CNS05","Manufacturing","Q1_low",2550,1.03368860900721
+"CNS05","Manufacturing","Q1_low",2600,1.02060280600299
+"CNS05","Manufacturing","Q1_low",2650,1.02494822309756
+"CNS05","Manufacturing","Q1_low",2700,1.04070356344381
+"CNS05","Manufacturing","Q1_low",2750,1.05029094470082
+"CNS05","Manufacturing","Q1_low",2800,1.05679496313196
+"CNS05","Manufacturing","Q1_low",2850,1.06615363381818
+"CNS05","Manufacturing","Q1_low",2900,1.05706320938178
+"CNS05","Manufacturing","Q1_low",2950,1.05892428349696
+"CNS05","Manufacturing","Q1_low",3000,1.06207932488869
+"CNS05","Manufacturing","Q1_low",3050,1.06726557796947
+"CNS05","Manufacturing","Q1_low",3100,1.07970978449197
+"CNS05","Manufacturing","Q1_low",3150,1.08397699003175
+"CNS05","Manufacturing","Q1_low",3200,1.07092138421495
+"CNS05","Manufacturing","Q1_low",3250,1.06773311843648
+"CNS05","Manufacturing","Q1_low",3300,1.0689152929106
+"CNS05","Manufacturing","Q1_low",3350,1.07031686350496
+"CNS05","Manufacturing","Q1_low",3400,1.06917628373754
+"CNS05","Manufacturing","Q1_low",3450,1.0678788077771
+"CNS05","Manufacturing","Q1_low",3500,1.07073336945996
+"CNS05","Manufacturing","Q1_low",3550,1.07761890249155
+"CNS05","Manufacturing","Q1_low",3600,1.07794333051672
+"CNS05","Manufacturing","Q1_low",3650,1.08460711393276
+"CNS05","Manufacturing","Q1_low",3700,1.08210484836889
+"CNS05","Manufacturing","Q1_low",3750,1.08452726536724
+"CNS05","Manufacturing","Q1_low",3800,1.0817640068681
+"CNS05","Manufacturing","Q1_low",3850,1.08171524525238
+"CNS05","Manufacturing","Q1_low",3900,1.07395292464492
+"CNS05","Manufacturing","Q1_low",3950,1.07268831936197
+"CNS05","Manufacturing","Q1_low",4000,1.07618526953542
+"CNS05","Manufacturing","Q1_low",4050,1.0890626701684
+"CNS05","Manufacturing","Q1_low",4100,1.0888166265581
+"CNS05","Manufacturing","Q1_low",4150,1.09146389292089
+"CNS05","Manufacturing","Q1_low",4200,1.09527328056217
+"CNS05","Manufacturing","Q1_low",4250,1.09940978524708
+"CNS05","Manufacturing","Q1_low",4300,1.09499793587427
+"CNS05","Manufacturing","Q1_low",4350,1.09788776065232
+"CNS05","Manufacturing","Q1_low",4400,1.09678602206224
+"CNS05","Manufacturing","Q1_low",4450,1.09476877984709
+"CNS05","Manufacturing","Q1_low",4500,1.09735736132809
+"CNS05","Manufacturing","Q1_low",4550,1.09278531049749
+"CNS05","Manufacturing","Q1_low",4600,1.09350296915622
+"CNS05","Manufacturing","Q1_low",4650,1.08758948260589
+"CNS05","Manufacturing","Q1_low",4700,1.08639152597718
+"CNS05","Manufacturing","Q1_low",4750,1.08769590818869
+"CNS05","Manufacturing","Q1_low",4800,1.08831213251309
+"CNS05","Manufacturing","Q1_low",4850,1.0834712395038
+"CNS05","Manufacturing","Q1_low",4900,1.08264754767242
+"CNS05","Manufacturing","Q1_low",4950,1.08013688640794
+"CNS05","Manufacturing","Q1_low",5000,1.08016916310273
+"CNS05","Manufacturing","Q2",0,0
+"CNS05","Manufacturing","Q2",50,0
+"CNS05","Manufacturing","Q2",100,0.00582947817219888
+"CNS05","Manufacturing","Q2",150,0.0238222812172724
+"CNS05","Manufacturing","Q2",200,0.155821258369089
+"CNS05","Manufacturing","Q2",250,0.18002728425748
+"CNS05","Manufacturing","Q2",300,0.209265627672192
+"CNS05","Manufacturing","Q2",350,0.296104107030957
+"CNS05","Manufacturing","Q2",400,0.384871003476319
+"CNS05","Manufacturing","Q2",450,0.462972162385268
+"CNS05","Manufacturing","Q2",500,0.524659175221715
+"CNS05","Manufacturing","Q2",550,0.58168182713667
+"CNS05","Manufacturing","Q2",600,0.645706626980655
+"CNS05","Manufacturing","Q2",650,0.692296976199716
+"CNS05","Manufacturing","Q2",700,0.723570456488644
+"CNS05","Manufacturing","Q2",750,0.771025872856131
+"CNS05","Manufacturing","Q2",800,0.802539489991418
+"CNS05","Manufacturing","Q2",850,0.816394458558893
+"CNS05","Manufacturing","Q2",900,0.829050939344628
+"CNS05","Manufacturing","Q2",950,0.855342235406559
+"CNS05","Manufacturing","Q2",1000,0.883892877201861
+"CNS05","Manufacturing","Q2",1050,0.908103676733558
+"CNS05","Manufacturing","Q2",1100,0.902863404868894
+"CNS05","Manufacturing","Q2",1150,0.910774876462092
+"CNS05","Manufacturing","Q2",1200,0.925986379461686
+"CNS05","Manufacturing","Q2",1250,0.936617955144318
+"CNS05","Manufacturing","Q2",1300,0.93269097774469
+"CNS05","Manufacturing","Q2",1350,0.940872191129284
+"CNS05","Manufacturing","Q2",1400,0.947653225500797
+"CNS05","Manufacturing","Q2",1450,0.965213231620702
+"CNS05","Manufacturing","Q2",1500,0.958424943207681
+"CNS05","Manufacturing","Q2",1550,0.972143355594888
+"CNS05","Manufacturing","Q2",1600,0.979555040641565
+"CNS05","Manufacturing","Q2",1650,0.995117023462915
+"CNS05","Manufacturing","Q2",1700,1.0036856113974
+"CNS05","Manufacturing","Q2",1750,1.01009028615479
+"CNS05","Manufacturing","Q2",1800,1.00210799346436
+"CNS05","Manufacturing","Q2",1850,0.991933330561816
+"CNS05","Manufacturing","Q2",1900,1.00064637971187
+"CNS05","Manufacturing","Q2",1950,1.00085593802293
+"CNS05","Manufacturing","Q2",2000,1.00399999380896
+"CNS05","Manufacturing","Q2",2050,0.998364544385143
+"CNS05","Manufacturing","Q2",2100,0.990288422595688
+"CNS05","Manufacturing","Q2",2150,0.996081460788917
+"CNS05","Manufacturing","Q2",2200,0.996064221091092
+"CNS05","Manufacturing","Q2",2250,1.00454470511608
+"CNS05","Manufacturing","Q2",2300,1.00490124321164
+"CNS05","Manufacturing","Q2",2350,1.01391422509778
+"CNS05","Manufacturing","Q2",2400,1.0223122985977
+"CNS05","Manufacturing","Q2",2450,1.02539471872306
+"CNS05","Manufacturing","Q2",2500,1.02861429820409
+"CNS05","Manufacturing","Q2",2550,1.0318491516282
+"CNS05","Manufacturing","Q2",2600,1.03618840505986
+"CNS05","Manufacturing","Q2",2650,1.03764361759663
+"CNS05","Manufacturing","Q2",2700,1.03144269679811
+"CNS05","Manufacturing","Q2",2750,1.03248200863919
+"CNS05","Manufacturing","Q2",2800,1.03303869997657
+"CNS05","Manufacturing","Q2",2850,1.03945111273572
+"CNS05","Manufacturing","Q2",2900,1.04077767381833
+"CNS05","Manufacturing","Q2",2950,1.0393024363526
+"CNS05","Manufacturing","Q2",3000,1.0375362042035
+"CNS05","Manufacturing","Q2",3050,1.03562257058214
+"CNS05","Manufacturing","Q2",3100,1.02959763592361
+"CNS05","Manufacturing","Q2",3150,1.03275214645507
+"CNS05","Manufacturing","Q2",3200,1.03535417297035
+"CNS05","Manufacturing","Q2",3250,1.03580065834651
+"CNS05","Manufacturing","Q2",3300,1.03327017073609
+"CNS05","Manufacturing","Q2",3350,1.03720315114578
+"CNS05","Manufacturing","Q2",3400,1.03644918823548
+"CNS05","Manufacturing","Q2",3450,1.03214226270514
+"CNS05","Manufacturing","Q2",3500,1.02465231770411
+"CNS05","Manufacturing","Q2",3550,1.02027993596652
+"CNS05","Manufacturing","Q2",3600,1.01715859110538
+"CNS05","Manufacturing","Q2",3650,1.02122586277547
+"CNS05","Manufacturing","Q2",3700,1.02066316711404
+"CNS05","Manufacturing","Q2",3750,1.01991178739961
+"CNS05","Manufacturing","Q2",3800,1.02360861553517
+"CNS05","Manufacturing","Q2",3850,1.0217133871349
+"CNS05","Manufacturing","Q2",3900,1.01884872264828
+"CNS05","Manufacturing","Q2",3950,1.01973423020717
+"CNS05","Manufacturing","Q2",4000,1.02262001255131
+"CNS05","Manufacturing","Q2",4050,1.02384743849623
+"CNS05","Manufacturing","Q2",4100,1.03275199981177
+"CNS05","Manufacturing","Q2",4150,1.03117968854811
+"CNS05","Manufacturing","Q2",4200,1.03073448067736
+"CNS05","Manufacturing","Q2",4250,1.03184779627332
+"CNS05","Manufacturing","Q2",4300,1.02996780725681
+"CNS05","Manufacturing","Q2",4350,1.02705222559888
+"CNS05","Manufacturing","Q2",4400,1.02710730321556
+"CNS05","Manufacturing","Q2",4450,1.02523454362625
+"CNS05","Manufacturing","Q2",4500,1.02223103980622
+"CNS05","Manufacturing","Q2",4550,1.01802707836082
+"CNS05","Manufacturing","Q2",4600,1.02156243676918
+"CNS05","Manufacturing","Q2",4650,1.02671487475051
+"CNS05","Manufacturing","Q2",4700,1.02302348356643
+"CNS05","Manufacturing","Q2",4750,1.02597091809664
+"CNS05","Manufacturing","Q2",4800,1.0254089295617
+"CNS05","Manufacturing","Q2",4850,1.029743222576
+"CNS05","Manufacturing","Q2",4900,1.03236559297681
+"CNS05","Manufacturing","Q2",4950,1.03542791370039
+"CNS05","Manufacturing","Q2",5000,1.03532303649838
+"CNS05","Manufacturing","Q3",0,0
+"CNS05","Manufacturing","Q3",50,0.0172451575893516
+"CNS05","Manufacturing","Q3",100,0.0798217784686462
+"CNS05","Manufacturing","Q3",150,0.114937536481451
+"CNS05","Manufacturing","Q3",200,0.164329704434602
+"CNS05","Manufacturing","Q3",250,0.266749162973536
+"CNS05","Manufacturing","Q3",300,0.339244896576714
+"CNS05","Manufacturing","Q3",350,0.375807552915575
+"CNS05","Manufacturing","Q3",400,0.445658846046079
+"CNS05","Manufacturing","Q3",450,0.492467318284696
+"CNS05","Manufacturing","Q3",500,0.534823487499627
+"CNS05","Manufacturing","Q3",550,0.609494840980234
+"CNS05","Manufacturing","Q3",600,0.636165799155715
+"CNS05","Manufacturing","Q3",650,0.650681015768212
+"CNS05","Manufacturing","Q3",700,0.686969946049584
+"CNS05","Manufacturing","Q3",750,0.72100450556048
+"CNS05","Manufacturing","Q3",800,0.761446152811987
+"CNS05","Manufacturing","Q3",850,0.785787353033766
+"CNS05","Manufacturing","Q3",900,0.796612454326962
+"CNS05","Manufacturing","Q3",950,0.808471736121852
+"CNS05","Manufacturing","Q3",1000,0.823065018848144
+"CNS05","Manufacturing","Q3",1050,0.849683070459835
+"CNS05","Manufacturing","Q3",1100,0.872337568029262
+"CNS05","Manufacturing","Q3",1150,0.867808942355518
+"CNS05","Manufacturing","Q3",1200,0.86970083121418
+"CNS05","Manufacturing","Q3",1250,0.872303104888608
+"CNS05","Manufacturing","Q3",1300,0.880328466495167
+"CNS05","Manufacturing","Q3",1350,0.893454529220984
+"CNS05","Manufacturing","Q3",1400,0.8982604110338
+"CNS05","Manufacturing","Q3",1450,0.909518591607832
+"CNS05","Manufacturing","Q3",1500,0.928957809571208
+"CNS05","Manufacturing","Q3",1550,0.929353403454596
+"CNS05","Manufacturing","Q3",1600,0.916626126645863
+"CNS05","Manufacturing","Q3",1650,0.926629849913089
+"CNS05","Manufacturing","Q3",1700,0.936412124740151
+"CNS05","Manufacturing","Q3",1750,0.934416937114337
+"CNS05","Manufacturing","Q3",1800,0.93945465782557
+"CNS05","Manufacturing","Q3",1850,0.939740781583606
+"CNS05","Manufacturing","Q3",1900,0.939642349144563
+"CNS05","Manufacturing","Q3",1950,0.936286534145382
+"CNS05","Manufacturing","Q3",2000,0.935107139392377
+"CNS05","Manufacturing","Q3",2050,0.931411751846448
+"CNS05","Manufacturing","Q3",2100,0.934998121470034
+"CNS05","Manufacturing","Q3",2150,0.934150543052154
+"CNS05","Manufacturing","Q3",2200,0.931464486659265
+"CNS05","Manufacturing","Q3",2250,0.928970764792234
+"CNS05","Manufacturing","Q3",2300,0.930235586606424
+"CNS05","Manufacturing","Q3",2350,0.93171219920798
+"CNS05","Manufacturing","Q3",2400,0.927293778913012
+"CNS05","Manufacturing","Q3",2450,0.92332203965909
+"CNS05","Manufacturing","Q3",2500,0.923076212641558
+"CNS05","Manufacturing","Q3",2550,0.919218847909611
+"CNS05","Manufacturing","Q3",2600,0.918345648402863
+"CNS05","Manufacturing","Q3",2650,0.923050620820254
+"CNS05","Manufacturing","Q3",2700,0.930832757122016
+"CNS05","Manufacturing","Q3",2750,0.930710808509938
+"CNS05","Manufacturing","Q3",2800,0.929345802146878
+"CNS05","Manufacturing","Q3",2850,0.935161120054355
+"CNS05","Manufacturing","Q3",2900,0.932709175224789
+"CNS05","Manufacturing","Q3",2950,0.92547631768823
+"CNS05","Manufacturing","Q3",3000,0.922795162563912
+"CNS05","Manufacturing","Q3",3050,0.925077139400003
+"CNS05","Manufacturing","Q3",3100,0.923861213383679
+"CNS05","Manufacturing","Q3",3150,0.920385834122086
+"CNS05","Manufacturing","Q3",3200,0.92590045130652
+"CNS05","Manufacturing","Q3",3250,0.921245300844135
+"CNS05","Manufacturing","Q3",3300,0.919267318620785
+"CNS05","Manufacturing","Q3",3350,0.916918578637208
+"CNS05","Manufacturing","Q3",3400,0.927627110524614
+"CNS05","Manufacturing","Q3",3450,0.928267879123988
+"CNS05","Manufacturing","Q3",3500,0.925562458978557
+"CNS05","Manufacturing","Q3",3550,0.931501327774771
+"CNS05","Manufacturing","Q3",3600,0.927555320766406
+"CNS05","Manufacturing","Q3",3650,0.928303910037202
+"CNS05","Manufacturing","Q3",3700,0.927177978295714
+"CNS05","Manufacturing","Q3",3750,0.926111639965808
+"CNS05","Manufacturing","Q3",3800,0.926652467810858
+"CNS05","Manufacturing","Q3",3850,0.928155290581083
+"CNS05","Manufacturing","Q3",3900,0.928677490462015
+"CNS05","Manufacturing","Q3",3950,0.934233624504645
+"CNS05","Manufacturing","Q3",4000,0.935444610840016
+"CNS05","Manufacturing","Q3",4050,0.937297045253156
+"CNS05","Manufacturing","Q3",4100,0.935445409144281
+"CNS05","Manufacturing","Q3",4150,0.93442265283914
+"CNS05","Manufacturing","Q3",4200,0.934756947797224
+"CNS05","Manufacturing","Q3",4250,0.934844260551162
+"CNS05","Manufacturing","Q3",4300,0.931844936220538
+"CNS05","Manufacturing","Q3",4350,0.934373612269954
+"CNS05","Manufacturing","Q3",4400,0.935552116506743
+"CNS05","Manufacturing","Q3",4450,0.933815978838236
+"CNS05","Manufacturing","Q3",4500,0.932545157424539
+"CNS05","Manufacturing","Q3",4550,0.930699160880708
+"CNS05","Manufacturing","Q3",4600,0.934967774612309
+"CNS05","Manufacturing","Q3",4650,0.944301902163046
+"CNS05","Manufacturing","Q3",4700,0.944422325674177
+"CNS05","Manufacturing","Q3",4750,0.944669180907653
+"CNS05","Manufacturing","Q3",4800,0.945304252220474
+"CNS05","Manufacturing","Q3",4850,0.945752092486609
+"CNS05","Manufacturing","Q3",4900,0.943832880369042
+"CNS05","Manufacturing","Q3",4950,0.950318788139984
+"CNS05","Manufacturing","Q3",5000,0.957787636841836
+"CNS05","Manufacturing","Q4_high",0,0
+"CNS05","Manufacturing","Q4_high",50,0.0105656198066062
+"CNS05","Manufacturing","Q4_high",100,0.128751830159834
+"CNS05","Manufacturing","Q4_high",150,0.404420407756283
+"CNS05","Manufacturing","Q4_high",200,0.73161763196391
+"CNS05","Manufacturing","Q4_high",250,1.05693204856162
+"CNS05","Manufacturing","Q4_high",300,1.16213055358949
+"CNS05","Manufacturing","Q4_high",350,1.339258429781
+"CNS05","Manufacturing","Q4_high",400,1.47536165144213
+"CNS05","Manufacturing","Q4_high",450,1.48995989152352
+"CNS05","Manufacturing","Q4_high",500,1.52569792870751
+"CNS05","Manufacturing","Q4_high",550,1.52185610998231
+"CNS05","Manufacturing","Q4_high",600,1.50608856548571
+"CNS05","Manufacturing","Q4_high",650,1.53733720569929
+"CNS05","Manufacturing","Q4_high",700,1.56042982345279
+"CNS05","Manufacturing","Q4_high",750,1.62346018461908
+"CNS05","Manufacturing","Q4_high",800,1.64834741094188
+"CNS05","Manufacturing","Q4_high",850,1.66638223944879
+"CNS05","Manufacturing","Q4_high",900,1.66753841716785
+"CNS05","Manufacturing","Q4_high",950,1.63648866962846
+"CNS05","Manufacturing","Q4_high",1000,1.63145822186761
+"CNS05","Manufacturing","Q4_high",1050,1.61624468540429
+"CNS05","Manufacturing","Q4_high",1100,1.62510502818344
+"CNS05","Manufacturing","Q4_high",1150,1.60244288362097
+"CNS05","Manufacturing","Q4_high",1200,1.58130016155573
+"CNS05","Manufacturing","Q4_high",1250,1.56821316365347
+"CNS05","Manufacturing","Q4_high",1300,1.56553727568298
+"CNS05","Manufacturing","Q4_high",1350,1.57215238950626
+"CNS05","Manufacturing","Q4_high",1400,1.56432985744927
+"CNS05","Manufacturing","Q4_high",1450,1.55713763528582
+"CNS05","Manufacturing","Q4_high",1500,1.55880453901453
+"CNS05","Manufacturing","Q4_high",1550,1.55055028838195
+"CNS05","Manufacturing","Q4_high",1600,1.55329680794382
+"CNS05","Manufacturing","Q4_high",1650,1.55155622358607
+"CNS05","Manufacturing","Q4_high",1700,1.55984997767108
+"CNS05","Manufacturing","Q4_high",1750,1.55167705740587
+"CNS05","Manufacturing","Q4_high",1800,1.53895193895741
+"CNS05","Manufacturing","Q4_high",1850,1.54011868458741
+"CNS05","Manufacturing","Q4_high",1900,1.5380295763208
+"CNS05","Manufacturing","Q4_high",1950,1.55010370506766
+"CNS05","Manufacturing","Q4_high",2000,1.55270365959424
+"CNS05","Manufacturing","Q4_high",2050,1.55228269440822
+"CNS05","Manufacturing","Q4_high",2100,1.54171116757436
+"CNS05","Manufacturing","Q4_high",2150,1.53854562717039
+"CNS05","Manufacturing","Q4_high",2200,1.53554534367889
+"CNS05","Manufacturing","Q4_high",2250,1.54157986515124
+"CNS05","Manufacturing","Q4_high",2300,1.5405422188822
+"CNS05","Manufacturing","Q4_high",2350,1.53482617497335
+"CNS05","Manufacturing","Q4_high",2400,1.54590950582165
+"CNS05","Manufacturing","Q4_high",2450,1.53467135808958
+"CNS05","Manufacturing","Q4_high",2500,1.53515241489835
+"CNS05","Manufacturing","Q4_high",2550,1.53408935694824
+"CNS05","Manufacturing","Q4_high",2600,1.53934510267148
+"CNS05","Manufacturing","Q4_high",2650,1.54357953549071
+"CNS05","Manufacturing","Q4_high",2700,1.53908816604377
+"CNS05","Manufacturing","Q4_high",2750,1.54133647356416
+"CNS05","Manufacturing","Q4_high",2800,1.53512872072962
+"CNS05","Manufacturing","Q4_high",2850,1.54817569224887
+"CNS05","Manufacturing","Q4_high",2900,1.54480234321465
+"CNS05","Manufacturing","Q4_high",2950,1.54673858546705
+"CNS05","Manufacturing","Q4_high",3000,1.54408182630488
+"CNS05","Manufacturing","Q4_high",3050,1.54527281055052
+"CNS05","Manufacturing","Q4_high",3100,1.54640758021952
+"CNS05","Manufacturing","Q4_high",3150,1.54323566484086
+"CNS05","Manufacturing","Q4_high",3200,1.54169963902786
+"CNS05","Manufacturing","Q4_high",3250,1.53915719743103
+"CNS05","Manufacturing","Q4_high",3300,1.53703086171404
+"CNS05","Manufacturing","Q4_high",3350,1.54068711207739
+"CNS05","Manufacturing","Q4_high",3400,1.53888246156401
+"CNS05","Manufacturing","Q4_high",3450,1.53390783094973
+"CNS05","Manufacturing","Q4_high",3500,1.53072264351663
+"CNS05","Manufacturing","Q4_high",3550,1.52335172125632
+"CNS05","Manufacturing","Q4_high",3600,1.51983290613502
+"CNS05","Manufacturing","Q4_high",3650,1.51968371522624
+"CNS05","Manufacturing","Q4_high",3700,1.51816755817364
+"CNS05","Manufacturing","Q4_high",3750,1.5124777912654
+"CNS05","Manufacturing","Q4_high",3800,1.51179856612049
+"CNS05","Manufacturing","Q4_high",3850,1.50974520682764
+"CNS05","Manufacturing","Q4_high",3900,1.50761242909247
+"CNS05","Manufacturing","Q4_high",3950,1.50581796007573
+"CNS05","Manufacturing","Q4_high",4000,1.5053105003418
+"CNS05","Manufacturing","Q4_high",4050,1.50263814686335
+"CNS05","Manufacturing","Q4_high",4100,1.4993742136284
+"CNS05","Manufacturing","Q4_high",4150,1.5027548249125
+"CNS05","Manufacturing","Q4_high",4200,1.49985490567991
+"CNS05","Manufacturing","Q4_high",4250,1.49777032397169
+"CNS05","Manufacturing","Q4_high",4300,1.49662627621575
+"CNS05","Manufacturing","Q4_high",4350,1.49555747840193
+"CNS05","Manufacturing","Q4_high",4400,1.49357505754008
+"CNS05","Manufacturing","Q4_high",4450,1.49029074492453
+"CNS05","Manufacturing","Q4_high",4500,1.4871061502415
+"CNS05","Manufacturing","Q4_high",4550,1.48508999582994
+"CNS05","Manufacturing","Q4_high",4600,1.47847585781407
+"CNS05","Manufacturing","Q4_high",4650,1.47499114199727
+"CNS05","Manufacturing","Q4_high",4700,1.46864176974692
+"CNS05","Manufacturing","Q4_high",4750,1.46362108455867
+"CNS05","Manufacturing","Q4_high",4800,1.46006800040978
+"CNS05","Manufacturing","Q4_high",4850,1.45830563111224
+"CNS05","Manufacturing","Q4_high",4900,1.4545613002017
+"CNS05","Manufacturing","Q4_high",4950,1.45100388816601
+"CNS05","Manufacturing","Q4_high",5000,1.44963092793925
+"CNS12","Professional, Scientific & Technical Services","Q1_low",0,0
+"CNS12","Professional, Scientific & Technical Services","Q1_low",50,0.0160968072220359
+"CNS12","Professional, Scientific & Technical Services","Q1_low",100,0.0484922892632426
+"CNS12","Professional, Scientific & Technical Services","Q1_low",150,0.18885681433972
+"CNS12","Professional, Scientific & Technical Services","Q1_low",200,0.356276407603205
+"CNS12","Professional, Scientific & Technical Services","Q1_low",250,0.478222658131452
+"CNS12","Professional, Scientific & Technical Services","Q1_low",300,0.668108360101181
+"CNS12","Professional, Scientific & Technical Services","Q1_low",350,0.757935882655636
+"CNS12","Professional, Scientific & Technical Services","Q1_low",400,0.813716594782265
+"CNS12","Professional, Scientific & Technical Services","Q1_low",450,0.885082751072557
+"CNS12","Professional, Scientific & Technical Services","Q1_low",500,0.96312958539491
+"CNS12","Professional, Scientific & Technical Services","Q1_low",550,1.0166384455493
+"CNS12","Professional, Scientific & Technical Services","Q1_low",600,1.08786957088651
+"CNS12","Professional, Scientific & Technical Services","Q1_low",650,1.17854937329748
+"CNS12","Professional, Scientific & Technical Services","Q1_low",700,1.20428593362394
+"CNS12","Professional, Scientific & Technical Services","Q1_low",750,1.27483411771235
+"CNS12","Professional, Scientific & Technical Services","Q1_low",800,1.30978411783953
+"CNS12","Professional, Scientific & Technical Services","Q1_low",850,1.30319413815672
+"CNS12","Professional, Scientific & Technical Services","Q1_low",900,1.35204081131064
+"CNS12","Professional, Scientific & Technical Services","Q1_low",950,1.36214368922308
+"CNS12","Professional, Scientific & Technical Services","Q1_low",1000,1.38856062547066
+"CNS12","Professional, Scientific & Technical Services","Q1_low",1050,1.40046252364138
+"CNS12","Professional, Scientific & Technical Services","Q1_low",1100,1.43554382814359
+"CNS12","Professional, Scientific & Technical Services","Q1_low",1150,1.4477729150974
+"CNS12","Professional, Scientific & Technical Services","Q1_low",1200,1.44755908873913
+"CNS12","Professional, Scientific & Technical Services","Q1_low",1250,1.47615404190916
+"CNS12","Professional, Scientific & Technical Services","Q1_low",1300,1.45729231025278
+"CNS12","Professional, Scientific & Technical Services","Q1_low",1350,1.47097391726365
+"CNS12","Professional, Scientific & Technical Services","Q1_low",1400,1.45299737433982
+"CNS12","Professional, Scientific & Technical Services","Q1_low",1450,1.45693036420618
+"CNS12","Professional, Scientific & Technical Services","Q1_low",1500,1.45799066294923
+"CNS12","Professional, Scientific & Technical Services","Q1_low",1550,1.45246803884535
+"CNS12","Professional, Scientific & Technical Services","Q1_low",1600,1.45625001382698
+"CNS12","Professional, Scientific & Technical Services","Q1_low",1650,1.44505643695904
+"CNS12","Professional, Scientific & Technical Services","Q1_low",1700,1.43117592026613
+"CNS12","Professional, Scientific & Technical Services","Q1_low",1750,1.42772866515746
+"CNS12","Professional, Scientific & Technical Services","Q1_low",1800,1.41227373768785
+"CNS12","Professional, Scientific & Technical Services","Q1_low",1850,1.41602562985201
+"CNS12","Professional, Scientific & Technical Services","Q1_low",1900,1.42455239712004
+"CNS12","Professional, Scientific & Technical Services","Q1_low",1950,1.41840115482292
+"CNS12","Professional, Scientific & Technical Services","Q1_low",2000,1.41275291275356
+"CNS12","Professional, Scientific & Technical Services","Q1_low",2050,1.40877304657909
+"CNS12","Professional, Scientific & Technical Services","Q1_low",2100,1.40221048930275
+"CNS12","Professional, Scientific & Technical Services","Q1_low",2150,1.4048035681421
+"CNS12","Professional, Scientific & Technical Services","Q1_low",2200,1.3891311274636
+"CNS12","Professional, Scientific & Technical Services","Q1_low",2250,1.38664468179276
+"CNS12","Professional, Scientific & Technical Services","Q1_low",2300,1.37430196359065
+"CNS12","Professional, Scientific & Technical Services","Q1_low",2350,1.36783330799748
+"CNS12","Professional, Scientific & Technical Services","Q1_low",2400,1.35997385312595
+"CNS12","Professional, Scientific & Technical Services","Q1_low",2450,1.36085540741779
+"CNS12","Professional, Scientific & Technical Services","Q1_low",2500,1.3544966093673
+"CNS12","Professional, Scientific & Technical Services","Q1_low",2550,1.35582185005312
+"CNS12","Professional, Scientific & Technical Services","Q1_low",2600,1.35187832387322
+"CNS12","Professional, Scientific & Technical Services","Q1_low",2650,1.34396929388233
+"CNS12","Professional, Scientific & Technical Services","Q1_low",2700,1.33790233755196
+"CNS12","Professional, Scientific & Technical Services","Q1_low",2750,1.33869261023497
+"CNS12","Professional, Scientific & Technical Services","Q1_low",2800,1.33712756892166
+"CNS12","Professional, Scientific & Technical Services","Q1_low",2850,1.33673816637075
+"CNS12","Professional, Scientific & Technical Services","Q1_low",2900,1.33882651756238
+"CNS12","Professional, Scientific & Technical Services","Q1_low",2950,1.3390834794391
+"CNS12","Professional, Scientific & Technical Services","Q1_low",3000,1.33611745901303
+"CNS12","Professional, Scientific & Technical Services","Q1_low",3050,1.33734334239662
+"CNS12","Professional, Scientific & Technical Services","Q1_low",3100,1.34116413105203
+"CNS12","Professional, Scientific & Technical Services","Q1_low",3150,1.33654304161331
+"CNS12","Professional, Scientific & Technical Services","Q1_low",3200,1.33747755730765
+"CNS12","Professional, Scientific & Technical Services","Q1_low",3250,1.33590016101006
+"CNS12","Professional, Scientific & Technical Services","Q1_low",3300,1.33736345577109
+"CNS12","Professional, Scientific & Technical Services","Q1_low",3350,1.33518699321514
+"CNS12","Professional, Scientific & Technical Services","Q1_low",3400,1.34154633289111
+"CNS12","Professional, Scientific & Technical Services","Q1_low",3450,1.34607686995067
+"CNS12","Professional, Scientific & Technical Services","Q1_low",3500,1.34459601567948
+"CNS12","Professional, Scientific & Technical Services","Q1_low",3550,1.34373671985929
+"CNS12","Professional, Scientific & Technical Services","Q1_low",3600,1.34412922839179
+"CNS12","Professional, Scientific & Technical Services","Q1_low",3650,1.34243911160905
+"CNS12","Professional, Scientific & Technical Services","Q1_low",3700,1.34001500326022
+"CNS12","Professional, Scientific & Technical Services","Q1_low",3750,1.34117555169228
+"CNS12","Professional, Scientific & Technical Services","Q1_low",3800,1.3469107032758
+"CNS12","Professional, Scientific & Technical Services","Q1_low",3850,1.34496555110924
+"CNS12","Professional, Scientific & Technical Services","Q1_low",3900,1.33947701161532
+"CNS12","Professional, Scientific & Technical Services","Q1_low",3950,1.3331257829341
+"CNS12","Professional, Scientific & Technical Services","Q1_low",4000,1.32969220534244
+"CNS12","Professional, Scientific & Technical Services","Q1_low",4050,1.32697245140309
+"CNS12","Professional, Scientific & Technical Services","Q1_low",4100,1.32254169344162
+"CNS12","Professional, Scientific & Technical Services","Q1_low",4150,1.32159134960547
+"CNS12","Professional, Scientific & Technical Services","Q1_low",4200,1.32280588308892
+"CNS12","Professional, Scientific & Technical Services","Q1_low",4250,1.31863556607966
+"CNS12","Professional, Scientific & Technical Services","Q1_low",4300,1.31904667319646
+"CNS12","Professional, Scientific & Technical Services","Q1_low",4350,1.31542526440046
+"CNS12","Professional, Scientific & Technical Services","Q1_low",4400,1.31201793477697
+"CNS12","Professional, Scientific & Technical Services","Q1_low",4450,1.31044121269764
+"CNS12","Professional, Scientific & Technical Services","Q1_low",4500,1.30620300512604
+"CNS12","Professional, Scientific & Technical Services","Q1_low",4550,1.30314523682704
+"CNS12","Professional, Scientific & Technical Services","Q1_low",4600,1.3023369199285
+"CNS12","Professional, Scientific & Technical Services","Q1_low",4650,1.2996873657847
+"CNS12","Professional, Scientific & Technical Services","Q1_low",4700,1.29552646052199
+"CNS12","Professional, Scientific & Technical Services","Q1_low",4750,1.29539609968501
+"CNS12","Professional, Scientific & Technical Services","Q1_low",4800,1.29029941255411
+"CNS12","Professional, Scientific & Technical Services","Q1_low",4850,1.28820165784782
+"CNS12","Professional, Scientific & Technical Services","Q1_low",4900,1.28569955928752
+"CNS12","Professional, Scientific & Technical Services","Q1_low",4950,1.28078549468358
+"CNS12","Professional, Scientific & Technical Services","Q1_low",5000,1.27896231133701
+"CNS12","Professional, Scientific & Technical Services","Q2",0,0
+"CNS12","Professional, Scientific & Technical Services","Q2",50,0.03484250644198
+"CNS12","Professional, Scientific & Technical Services","Q2",100,0.188805829118644
+"CNS12","Professional, Scientific & Technical Services","Q2",150,0.479571226790686
+"CNS12","Professional, Scientific & Technical Services","Q2",200,0.70114924013205
+"CNS12","Professional, Scientific & Technical Services","Q2",250,0.787517977549507
+"CNS12","Professional, Scientific & Technical Services","Q2",300,0.87124921845603
+"CNS12","Professional, Scientific & Technical Services","Q2",350,0.973253123215314
+"CNS12","Professional, Scientific & Technical Services","Q2",400,1.06285900701276
+"CNS12","Professional, Scientific & Technical Services","Q2",450,1.08848509056586
+"CNS12","Professional, Scientific & Technical Services","Q2",500,1.10131101983191
+"CNS12","Professional, Scientific & Technical Services","Q2",550,1.11818146562523
+"CNS12","Professional, Scientific & Technical Services","Q2",600,1.12275182304198
+"CNS12","Professional, Scientific & Technical Services","Q2",650,1.13722301958535
+"CNS12","Professional, Scientific & Technical Services","Q2",700,1.12512611387013
+"CNS12","Professional, Scientific & Technical Services","Q2",750,1.1233666760623
+"CNS12","Professional, Scientific & Technical Services","Q2",800,1.13503447053594
+"CNS12","Professional, Scientific & Technical Services","Q2",850,1.14514472968631
+"CNS12","Professional, Scientific & Technical Services","Q2",900,1.15298277342552
+"CNS12","Professional, Scientific & Technical Services","Q2",950,1.15982771172868
+"CNS12","Professional, Scientific & Technical Services","Q2",1000,1.17339126845051
+"CNS12","Professional, Scientific & Technical Services","Q2",1050,1.18180073293508
+"CNS12","Professional, Scientific & Technical Services","Q2",1100,1.18457485941545
+"CNS12","Professional, Scientific & Technical Services","Q2",1150,1.18057622383488
+"CNS12","Professional, Scientific & Technical Services","Q2",1200,1.17575297407954
+"CNS12","Professional, Scientific & Technical Services","Q2",1250,1.17918350818536
+"CNS12","Professional, Scientific & Technical Services","Q2",1300,1.18851168005988
+"CNS12","Professional, Scientific & Technical Services","Q2",1350,1.18325303983304
+"CNS12","Professional, Scientific & Technical Services","Q2",1400,1.17762577631415
+"CNS12","Professional, Scientific & Technical Services","Q2",1450,1.17441688232909
+"CNS12","Professional, Scientific & Technical Services","Q2",1500,1.16118604194369
+"CNS12","Professional, Scientific & Technical Services","Q2",1550,1.15008340283675
+"CNS12","Professional, Scientific & Technical Services","Q2",1600,1.14211204098756
+"CNS12","Professional, Scientific & Technical Services","Q2",1650,1.14039604253472
+"CNS12","Professional, Scientific & Technical Services","Q2",1700,1.13793053247045
+"CNS12","Professional, Scientific & Technical Services","Q2",1750,1.12966714724263
+"CNS12","Professional, Scientific & Technical Services","Q2",1800,1.12025118644006
+"CNS12","Professional, Scientific & Technical Services","Q2",1850,1.11333716123997
+"CNS12","Professional, Scientific & Technical Services","Q2",1900,1.11418094801118
+"CNS12","Professional, Scientific & Technical Services","Q2",1950,1.1158967806077
+"CNS12","Professional, Scientific & Technical Services","Q2",2000,1.11286973506013
+"CNS12","Professional, Scientific & Technical Services","Q2",2050,1.11801582027936
+"CNS12","Professional, Scientific & Technical Services","Q2",2100,1.12571223631768
+"CNS12","Professional, Scientific & Technical Services","Q2",2150,1.11799405588522
+"CNS12","Professional, Scientific & Technical Services","Q2",2200,1.11397559448603
+"CNS12","Professional, Scientific & Technical Services","Q2",2250,1.11467378787683
+"CNS12","Professional, Scientific & Technical Services","Q2",2300,1.1159131937764
+"CNS12","Professional, Scientific & Technical Services","Q2",2350,1.11633363919467
+"CNS12","Professional, Scientific & Technical Services","Q2",2400,1.11430351038831
+"CNS12","Professional, Scientific & Technical Services","Q2",2450,1.11022867144858
+"CNS12","Professional, Scientific & Technical Services","Q2",2500,1.11142980944642
+"CNS12","Professional, Scientific & Technical Services","Q2",2550,1.10991351307363
+"CNS12","Professional, Scientific & Technical Services","Q2",2600,1.11157351105506
+"CNS12","Professional, Scientific & Technical Services","Q2",2650,1.10975895915654
+"CNS12","Professional, Scientific & Technical Services","Q2",2700,1.10994333297275
+"CNS12","Professional, Scientific & Technical Services","Q2",2750,1.10834599807606
+"CNS12","Professional, Scientific & Technical Services","Q2",2800,1.10534039389773
+"CNS12","Professional, Scientific & Technical Services","Q2",2850,1.10495588763536
+"CNS12","Professional, Scientific & Technical Services","Q2",2900,1.10228644521604
+"CNS12","Professional, Scientific & Technical Services","Q2",2950,1.10383754432674
+"CNS12","Professional, Scientific & Technical Services","Q2",3000,1.10470994164683
+"CNS12","Professional, Scientific & Technical Services","Q2",3050,1.10657613046661
+"CNS12","Professional, Scientific & Technical Services","Q2",3100,1.10508494563673
+"CNS12","Professional, Scientific & Technical Services","Q2",3150,1.10764954841959
+"CNS12","Professional, Scientific & Technical Services","Q2",3200,1.1021694477639
+"CNS12","Professional, Scientific & Technical Services","Q2",3250,1.10497135891263
+"CNS12","Professional, Scientific & Technical Services","Q2",3300,1.10326703066546
+"CNS12","Professional, Scientific & Technical Services","Q2",3350,1.10517675690275
+"CNS12","Professional, Scientific & Technical Services","Q2",3400,1.1034254004785
+"CNS12","Professional, Scientific & Technical Services","Q2",3450,1.1019047465845
+"CNS12","Professional, Scientific & Technical Services","Q2",3500,1.10154230327279
+"CNS12","Professional, Scientific & Technical Services","Q2",3550,1.09910856145669
+"CNS12","Professional, Scientific & Technical Services","Q2",3600,1.10235877419434
+"CNS12","Professional, Scientific & Technical Services","Q2",3650,1.10486339838037
+"CNS12","Professional, Scientific & Technical Services","Q2",3700,1.10562590333969
+"CNS12","Professional, Scientific & Technical Services","Q2",3750,1.1057742667196
+"CNS12","Professional, Scientific & Technical Services","Q2",3800,1.10447988961438
+"CNS12","Professional, Scientific & Technical Services","Q2",3850,1.10347807914335
+"CNS12","Professional, Scientific & Technical Services","Q2",3900,1.10245870445322
+"CNS12","Professional, Scientific & Technical Services","Q2",3950,1.10503407615039
+"CNS12","Professional, Scientific & Technical Services","Q2",4000,1.10454054207872
+"CNS12","Professional, Scientific & Technical Services","Q2",4050,1.1051045574772
+"CNS12","Professional, Scientific & Technical Services","Q2",4100,1.10308778234689
+"CNS12","Professional, Scientific & Technical Services","Q2",4150,1.10044824053659
+"CNS12","Professional, Scientific & Technical Services","Q2",4200,1.09837813502565
+"CNS12","Professional, Scientific & Technical Services","Q2",4250,1.09942097444271
+"CNS12","Professional, Scientific & Technical Services","Q2",4300,1.09705192598536
+"CNS12","Professional, Scientific & Technical Services","Q2",4350,1.09485741770022
+"CNS12","Professional, Scientific & Technical Services","Q2",4400,1.09549233224098
+"CNS12","Professional, Scientific & Technical Services","Q2",4450,1.09621650702165
+"CNS12","Professional, Scientific & Technical Services","Q2",4500,1.09783043343697
+"CNS12","Professional, Scientific & Technical Services","Q2",4550,1.09718150377877
+"CNS12","Professional, Scientific & Technical Services","Q2",4600,1.09697048193706
+"CNS12","Professional, Scientific & Technical Services","Q2",4650,1.09882449572054
+"CNS12","Professional, Scientific & Technical Services","Q2",4700,1.09840514686032
+"CNS12","Professional, Scientific & Technical Services","Q2",4750,1.0994170800521
+"CNS12","Professional, Scientific & Technical Services","Q2",4800,1.09739769350896
+"CNS12","Professional, Scientific & Technical Services","Q2",4850,1.10056919664476
+"CNS12","Professional, Scientific & Technical Services","Q2",4900,1.09998934174205
+"CNS12","Professional, Scientific & Technical Services","Q2",4950,1.10037493905174
+"CNS12","Professional, Scientific & Technical Services","Q2",5000,1.10112864712272
+"CNS12","Professional, Scientific & Technical Services","Q3",0,0
+"CNS12","Professional, Scientific & Technical Services","Q3",50,0.0124397931870923
+"CNS12","Professional, Scientific & Technical Services","Q3",100,0.291028971500085
+"CNS12","Professional, Scientific & Technical Services","Q3",150,0.48752233892412
+"CNS12","Professional, Scientific & Technical Services","Q3",200,0.621526215621745
+"CNS12","Professional, Scientific & Technical Services","Q3",250,0.72935049501285
+"CNS12","Professional, Scientific & Technical Services","Q3",300,0.801735797857982
+"CNS12","Professional, Scientific & Technical Services","Q3",350,0.80963043045517
+"CNS12","Professional, Scientific & Technical Services","Q3",400,0.813118113914723
+"CNS12","Professional, Scientific & Technical Services","Q3",450,0.830542097055664
+"CNS12","Professional, Scientific & Technical Services","Q3",500,0.840186212323381
+"CNS12","Professional, Scientific & Technical Services","Q3",550,0.840163845527922
+"CNS12","Professional, Scientific & Technical Services","Q3",600,0.847601710936491
+"CNS12","Professional, Scientific & Technical Services","Q3",650,0.862047982707342
+"CNS12","Professional, Scientific & Technical Services","Q3",700,0.886298201889398
+"CNS12","Professional, Scientific & Technical Services","Q3",750,0.902189732844972
+"CNS12","Professional, Scientific & Technical Services","Q3",800,0.894988031595178
+"CNS12","Professional, Scientific & Technical Services","Q3",850,0.907542154859659
+"CNS12","Professional, Scientific & Technical Services","Q3",900,0.914910406140072
+"CNS12","Professional, Scientific & Technical Services","Q3",950,0.896392882695586
+"CNS12","Professional, Scientific & Technical Services","Q3",1000,0.896074944740017
+"CNS12","Professional, Scientific & Technical Services","Q3",1050,0.893652515506752
+"CNS12","Professional, Scientific & Technical Services","Q3",1100,0.904676180487109
+"CNS12","Professional, Scientific & Technical Services","Q3",1150,0.904199909759448
+"CNS12","Professional, Scientific & Technical Services","Q3",1200,0.902633809748397
+"CNS12","Professional, Scientific & Technical Services","Q3",1250,0.910447752565651
+"CNS12","Professional, Scientific & Technical Services","Q3",1300,0.91537021428834
+"CNS12","Professional, Scientific & Technical Services","Q3",1350,0.922965597104176
+"CNS12","Professional, Scientific & Technical Services","Q3",1400,0.921001563660202
+"CNS12","Professional, Scientific & Technical Services","Q3",1450,0.921494812753015
+"CNS12","Professional, Scientific & Technical Services","Q3",1500,0.920142594289977
+"CNS12","Professional, Scientific & Technical Services","Q3",1550,0.919577978946413
+"CNS12","Professional, Scientific & Technical Services","Q3",1600,0.927490930389904
+"CNS12","Professional, Scientific & Technical Services","Q3",1650,0.933930357337756
+"CNS12","Professional, Scientific & Technical Services","Q3",1700,0.931491476567335
+"CNS12","Professional, Scientific & Technical Services","Q3",1750,0.940358912225978
+"CNS12","Professional, Scientific & Technical Services","Q3",1800,0.939968766765483
+"CNS12","Professional, Scientific & Technical Services","Q3",1850,0.940150926355678
+"CNS12","Professional, Scientific & Technical Services","Q3",1900,0.939592856606268
+"CNS12","Professional, Scientific & Technical Services","Q3",1950,0.943805234613215
+"CNS12","Professional, Scientific & Technical Services","Q3",2000,0.946058994677363
+"CNS12","Professional, Scientific & Technical Services","Q3",2050,0.943947838424355
+"CNS12","Professional, Scientific & Technical Services","Q3",2100,0.945508252642047
+"CNS12","Professional, Scientific & Technical Services","Q3",2150,0.946411141178237
+"CNS12","Professional, Scientific & Technical Services","Q3",2200,0.945034131329098
+"CNS12","Professional, Scientific & Technical Services","Q3",2250,0.942372225536353
+"CNS12","Professional, Scientific & Technical Services","Q3",2300,0.942622267468084
+"CNS12","Professional, Scientific & Technical Services","Q3",2350,0.944819452710139
+"CNS12","Professional, Scientific & Technical Services","Q3",2400,0.94680158355151
+"CNS12","Professional, Scientific & Technical Services","Q3",2450,0.948288904450916
+"CNS12","Professional, Scientific & Technical Services","Q3",2500,0.953591767935176
+"CNS12","Professional, Scientific & Technical Services","Q3",2550,0.952127721564647
+"CNS12","Professional, Scientific & Technical Services","Q3",2600,0.951575724099213
+"CNS12","Professional, Scientific & Technical Services","Q3",2650,0.949961242587572
+"CNS12","Professional, Scientific & Technical Services","Q3",2700,0.949855587519877
+"CNS12","Professional, Scientific & Technical Services","Q3",2750,0.950514364258584
+"CNS12","Professional, Scientific & Technical Services","Q3",2800,0.951537009373574
+"CNS12","Professional, Scientific & Technical Services","Q3",2850,0.956951169714202
+"CNS12","Professional, Scientific & Technical Services","Q3",2900,0.958460641154479
+"CNS12","Professional, Scientific & Technical Services","Q3",2950,0.961470369447682
+"CNS12","Professional, Scientific & Technical Services","Q3",3000,0.96069430797829
+"CNS12","Professional, Scientific & Technical Services","Q3",3050,0.959684719264473
+"CNS12","Professional, Scientific & Technical Services","Q3",3100,0.963032989122018
+"CNS12","Professional, Scientific & Technical Services","Q3",3150,0.96316007062
+"CNS12","Professional, Scientific & Technical Services","Q3",3200,0.968197301699268
+"CNS12","Professional, Scientific & Technical Services","Q3",3250,0.967496456443071
+"CNS12","Professional, Scientific & Technical Services","Q3",3300,0.969915386083055
+"CNS12","Professional, Scientific & Technical Services","Q3",3350,0.972869625313176
+"CNS12","Professional, Scientific & Technical Services","Q3",3400,0.971734720035738
+"CNS12","Professional, Scientific & Technical Services","Q3",3450,0.970657405954736
+"CNS12","Professional, Scientific & Technical Services","Q3",3500,0.972940491026969
+"CNS12","Professional, Scientific & Technical Services","Q3",3550,0.976065275385066
+"CNS12","Professional, Scientific & Technical Services","Q3",3600,0.97801410131831
+"CNS12","Professional, Scientific & Technical Services","Q3",3650,0.97911366430622
+"CNS12","Professional, Scientific & Technical Services","Q3",3700,0.97847300527017
+"CNS12","Professional, Scientific & Technical Services","Q3",3750,0.978514264423491
+"CNS12","Professional, Scientific & Technical Services","Q3",3800,0.979056452086882
+"CNS12","Professional, Scientific & Technical Services","Q3",3850,0.980051786325202
+"CNS12","Professional, Scientific & Technical Services","Q3",3900,0.980088570454175
+"CNS12","Professional, Scientific & Technical Services","Q3",3950,0.98015926738378
+"CNS12","Professional, Scientific & Technical Services","Q3",4000,0.98072918160801
+"CNS12","Professional, Scientific & Technical Services","Q3",4050,0.982084140362348
+"CNS12","Professional, Scientific & Technical Services","Q3",4100,0.984120424342539
+"CNS12","Professional, Scientific & Technical Services","Q3",4150,0.983843927754007
+"CNS12","Professional, Scientific & Technical Services","Q3",4200,0.985334266691146
+"CNS12","Professional, Scientific & Technical Services","Q3",4250,0.984777435696791
+"CNS12","Professional, Scientific & Technical Services","Q3",4300,0.985108042791252
+"CNS12","Professional, Scientific & Technical Services","Q3",4350,0.986559653273071
+"CNS12","Professional, Scientific & Technical Services","Q3",4400,0.98734331124752
+"CNS12","Professional, Scientific & Technical Services","Q3",4450,0.985831283311381
+"CNS12","Professional, Scientific & Technical Services","Q3",4500,0.986126291272406
+"CNS12","Professional, Scientific & Technical Services","Q3",4550,0.986118877427204
+"CNS12","Professional, Scientific & Technical Services","Q3",4600,0.985384987372172
+"CNS12","Professional, Scientific & Technical Services","Q3",4650,0.983990664713655
+"CNS12","Professional, Scientific & Technical Services","Q3",4700,0.984875101350153
+"CNS12","Professional, Scientific & Technical Services","Q3",4750,0.98671322220058
+"CNS12","Professional, Scientific & Technical Services","Q3",4800,0.987923208343622
+"CNS12","Professional, Scientific & Technical Services","Q3",4850,0.987279848638105
+"CNS12","Professional, Scientific & Technical Services","Q3",4900,0.988069259812181
+"CNS12","Professional, Scientific & Technical Services","Q3",4950,0.988658284304711
+"CNS12","Professional, Scientific & Technical Services","Q3",5000,0.98688049490751
+"CNS12","Professional, Scientific & Technical Services","Q4_high",0,0
+"CNS12","Professional, Scientific & Technical Services","Q4_high",50,0.0474928125286202
+"CNS12","Professional, Scientific & Technical Services","Q4_high",100,0.390732355407509
+"CNS12","Professional, Scientific & Technical Services","Q4_high",150,0.57590273431258
+"CNS12","Professional, Scientific & Technical Services","Q4_high",200,0.691530827065799
+"CNS12","Professional, Scientific & Technical Services","Q4_high",250,0.736016374851349
+"CNS12","Professional, Scientific & Technical Services","Q4_high",300,0.762380380361925
+"CNS12","Professional, Scientific & Technical Services","Q4_high",350,0.775704599252038
+"CNS12","Professional, Scientific & Technical Services","Q4_high",400,0.803114628251214
+"CNS12","Professional, Scientific & Technical Services","Q4_high",450,0.810427982695057
+"CNS12","Professional, Scientific & Technical Services","Q4_high",500,0.816815391795582
+"CNS12","Professional, Scientific & Technical Services","Q4_high",550,0.829611713604568
+"CNS12","Professional, Scientific & Technical Services","Q4_high",600,0.836045706698271
+"CNS12","Professional, Scientific & Technical Services","Q4_high",650,0.845315399151706
+"CNS12","Professional, Scientific & Technical Services","Q4_high",700,0.85534968471286
+"CNS12","Professional, Scientific & Technical Services","Q4_high",750,0.863368289569881
+"CNS12","Professional, Scientific & Technical Services","Q4_high",800,0.869053919798178
+"CNS12","Professional, Scientific & Technical Services","Q4_high",850,0.871474142876245
+"CNS12","Professional, Scientific & Technical Services","Q4_high",900,0.872305375975272
+"CNS12","Professional, Scientific & Technical Services","Q4_high",950,0.870457813722565
+"CNS12","Professional, Scientific & Technical Services","Q4_high",1000,0.873939995647951
+"CNS12","Professional, Scientific & Technical Services","Q4_high",1050,0.871413650802099
+"CNS12","Professional, Scientific & Technical Services","Q4_high",1100,0.874181137807133
+"CNS12","Professional, Scientific & Technical Services","Q4_high",1150,0.876163163046785
+"CNS12","Professional, Scientific & Technical Services","Q4_high",1200,0.873946501259023
+"CNS12","Professional, Scientific & Technical Services","Q4_high",1250,0.8713169906619
+"CNS12","Professional, Scientific & Technical Services","Q4_high",1300,0.871005560163093
+"CNS12","Professional, Scientific & Technical Services","Q4_high",1350,0.86779221798445
+"CNS12","Professional, Scientific & Technical Services","Q4_high",1400,0.868619589379129
+"CNS12","Professional, Scientific & Technical Services","Q4_high",1450,0.868595524697796
+"CNS12","Professional, Scientific & Technical Services","Q4_high",1500,0.874276404055328
+"CNS12","Professional, Scientific & Technical Services","Q4_high",1550,0.877398544172138
+"CNS12","Professional, Scientific & Technical Services","Q4_high",1600,0.878170452118245
+"CNS12","Professional, Scientific & Technical Services","Q4_high",1650,0.880776921837019
+"CNS12","Professional, Scientific & Technical Services","Q4_high",1700,0.885059735423962
+"CNS12","Professional, Scientific & Technical Services","Q4_high",1750,0.886843761848677
+"CNS12","Professional, Scientific & Technical Services","Q4_high",1800,0.891704190621248
+"CNS12","Professional, Scientific & Technical Services","Q4_high",1850,0.894553656231148
+"CNS12","Professional, Scientific & Technical Services","Q4_high",1900,0.898045717520375
+"CNS12","Professional, Scientific & Technical Services","Q4_high",1950,0.901005403511655
+"CNS12","Professional, Scientific & Technical Services","Q4_high",2000,0.904596468975086
+"CNS12","Professional, Scientific & Technical Services","Q4_high",2050,0.909294126477403
+"CNS12","Professional, Scientific & Technical Services","Q4_high",2100,0.912592091790386
+"CNS12","Professional, Scientific & Technical Services","Q4_high",2150,0.915592232962674
+"CNS12","Professional, Scientific & Technical Services","Q4_high",2200,0.919946945482455
+"CNS12","Professional, Scientific & Technical Services","Q4_high",2250,0.925274759162731
+"CNS12","Professional, Scientific & Technical Services","Q4_high",2300,0.929929887310397
+"CNS12","Professional, Scientific & Technical Services","Q4_high",2350,0.933531338941
+"CNS12","Professional, Scientific & Technical Services","Q4_high",2400,0.936492650697411
+"CNS12","Professional, Scientific & Technical Services","Q4_high",2450,0.939470848145499
+"CNS12","Professional, Scientific & Technical Services","Q4_high",2500,0.941602608667946
+"CNS12","Professional, Scientific & Technical Services","Q4_high",2550,0.943994088377509
+"CNS12","Professional, Scientific & Technical Services","Q4_high",2600,0.94606396045906
+"CNS12","Professional, Scientific & Technical Services","Q4_high",2650,0.948508601796468
+"CNS12","Professional, Scientific & Technical Services","Q4_high",2700,0.948900521423493
+"CNS12","Professional, Scientific & Technical Services","Q4_high",2750,0.950389525108408
+"CNS12","Professional, Scientific & Technical Services","Q4_high",2800,0.951867861908565
+"CNS12","Professional, Scientific & Technical Services","Q4_high",2850,0.951476401083842
+"CNS12","Professional, Scientific & Technical Services","Q4_high",2900,0.952899053684316
+"CNS12","Professional, Scientific & Technical Services","Q4_high",2950,0.9547968315164
+"CNS12","Professional, Scientific & Technical Services","Q4_high",3000,0.953745104269821
+"CNS12","Professional, Scientific & Technical Services","Q4_high",3050,0.954975423791336
+"CNS12","Professional, Scientific & Technical Services","Q4_high",3100,0.956248407571325
+"CNS12","Professional, Scientific & Technical Services","Q4_high",3150,0.957008132639388
+"CNS12","Professional, Scientific & Technical Services","Q4_high",3200,0.957793697981801
+"CNS12","Professional, Scientific & Technical Services","Q4_high",3250,0.95864959306828
+"CNS12","Professional, Scientific & Technical Services","Q4_high",3300,0.959204769763624
+"CNS12","Professional, Scientific & Technical Services","Q4_high",3350,0.959517474532223
+"CNS12","Professional, Scientific & Technical Services","Q4_high",3400,0.960689753592786
+"CNS12","Professional, Scientific & Technical Services","Q4_high",3450,0.96096581960504
+"CNS12","Professional, Scientific & Technical Services","Q4_high",3500,0.961234823270654
+"CNS12","Professional, Scientific & Technical Services","Q4_high",3550,0.961476394444751
+"CNS12","Professional, Scientific & Technical Services","Q4_high",3600,0.961667728829291
+"CNS12","Professional, Scientific & Technical Services","Q4_high",3650,0.961589927191486
+"CNS12","Professional, Scientific & Technical Services","Q4_high",3700,0.961360453208424
+"CNS12","Professional, Scientific & Technical Services","Q4_high",3750,0.961998742294365
+"CNS12","Professional, Scientific & Technical Services","Q4_high",3800,0.962817409759383
+"CNS12","Professional, Scientific & Technical Services","Q4_high",3850,0.963664664085948
+"CNS12","Professional, Scientific & Technical Services","Q4_high",3900,0.963172966057426
+"CNS12","Professional, Scientific & Technical Services","Q4_high",3950,0.962646207438721
+"CNS12","Professional, Scientific & Technical Services","Q4_high",4000,0.963268531536932
+"CNS12","Professional, Scientific & Technical Services","Q4_high",4050,0.964312231870808
+"CNS12","Professional, Scientific & Technical Services","Q4_high",4100,0.963904906349645
+"CNS12","Professional, Scientific & Technical Services","Q4_high",4150,0.964638459041618
+"CNS12","Professional, Scientific & Technical Services","Q4_high",4200,0.964467245155562
+"CNS12","Professional, Scientific & Technical Services","Q4_high",4250,0.964483838139946
+"CNS12","Professional, Scientific & Technical Services","Q4_high",4300,0.964586543471979
+"CNS12","Professional, Scientific & Technical Services","Q4_high",4350,0.964061542373765
+"CNS12","Professional, Scientific & Technical Services","Q4_high",4400,0.963500506694745
+"CNS12","Professional, Scientific & Technical Services","Q4_high",4450,0.963813728229282
+"CNS12","Professional, Scientific & Technical Services","Q4_high",4500,0.964210415489518
+"CNS12","Professional, Scientific & Technical Services","Q4_high",4550,0.964617428678568
+"CNS12","Professional, Scientific & Technical Services","Q4_high",4600,0.965423222537277
+"CNS12","Professional, Scientific & Technical Services","Q4_high",4650,0.965048162104793
+"CNS12","Professional, Scientific & Technical Services","Q4_high",4700,0.965510323929694
+"CNS12","Professional, Scientific & Technical Services","Q4_high",4750,0.965276581613616
+"CNS12","Professional, Scientific & Technical Services","Q4_high",4800,0.965549038895174
+"CNS12","Professional, Scientific & Technical Services","Q4_high",4850,0.965116576324404
+"CNS12","Professional, Scientific & Technical Services","Q4_high",4900,0.965704411680833
+"CNS12","Professional, Scientific & Technical Services","Q4_high",4950,0.966053165073421
+"CNS12","Professional, Scientific & Technical Services","Q4_high",5000,0.965924479566618
+"CNS06","Wholesale Trade","Q1_low",0,0
+"CNS06","Wholesale Trade","Q1_low",50,0
+"CNS06","Wholesale Trade","Q1_low",100,0
+"CNS06","Wholesale Trade","Q1_low",150,0.0954855391601121
+"CNS06","Wholesale Trade","Q1_low",200,0.105799563025317
+"CNS06","Wholesale Trade","Q1_low",250,0.170015825108144
+"CNS06","Wholesale Trade","Q1_low",300,0.164225545977375
+"CNS06","Wholesale Trade","Q1_low",350,0.176458498063037
+"CNS06","Wholesale Trade","Q1_low",400,0.196692690267802
+"CNS06","Wholesale Trade","Q1_low",450,0.241707595295791
+"CNS06","Wholesale Trade","Q1_low",500,0.273481123695027
+"CNS06","Wholesale Trade","Q1_low",550,0.344119891404268
+"CNS06","Wholesale Trade","Q1_low",600,0.430239641788444
+"CNS06","Wholesale Trade","Q1_low",650,0.507019015966251
+"CNS06","Wholesale Trade","Q1_low",700,0.571485310322743
+"CNS06","Wholesale Trade","Q1_low",750,0.582101946940652
+"CNS06","Wholesale Trade","Q1_low",800,0.639950989408546
+"CNS06","Wholesale Trade","Q1_low",850,0.667983266659999
+"CNS06","Wholesale Trade","Q1_low",900,0.67124229270997
+"CNS06","Wholesale Trade","Q1_low",950,0.693414711888296
+"CNS06","Wholesale Trade","Q1_low",1000,0.727547491470107
+"CNS06","Wholesale Trade","Q1_low",1050,0.737134814566346
+"CNS06","Wholesale Trade","Q1_low",1100,0.780173921958119
+"CNS06","Wholesale Trade","Q1_low",1150,0.77833259372826
+"CNS06","Wholesale Trade","Q1_low",1200,0.770979555417186
+"CNS06","Wholesale Trade","Q1_low",1250,0.773173993783064
+"CNS06","Wholesale Trade","Q1_low",1300,0.790079829967346
+"CNS06","Wholesale Trade","Q1_low",1350,0.779160633267536
+"CNS06","Wholesale Trade","Q1_low",1400,0.788737961518393
+"CNS06","Wholesale Trade","Q1_low",1450,0.808425683326615
+"CNS06","Wholesale Trade","Q1_low",1500,0.837608579697555
+"CNS06","Wholesale Trade","Q1_low",1550,0.821498986019529
+"CNS06","Wholesale Trade","Q1_low",1600,0.825455879824086
+"CNS06","Wholesale Trade","Q1_low",1650,0.834253549982659
+"CNS06","Wholesale Trade","Q1_low",1700,0.85331912074747
+"CNS06","Wholesale Trade","Q1_low",1750,0.863990613233578
+"CNS06","Wholesale Trade","Q1_low",1800,0.870486448957609
+"CNS06","Wholesale Trade","Q1_low",1850,0.884664788236285
+"CNS06","Wholesale Trade","Q1_low",1900,0.875667071865873
+"CNS06","Wholesale Trade","Q1_low",1950,0.87959124582251
+"CNS06","Wholesale Trade","Q1_low",2000,0.870915188100604
+"CNS06","Wholesale Trade","Q1_low",2050,0.865663910420582
+"CNS06","Wholesale Trade","Q1_low",2100,0.865110129146152
+"CNS06","Wholesale Trade","Q1_low",2150,0.857576906440064
+"CNS06","Wholesale Trade","Q1_low",2200,0.867268393095766
+"CNS06","Wholesale Trade","Q1_low",2250,0.876720715518579
+"CNS06","Wholesale Trade","Q1_low",2300,0.883317380207406
+"CNS06","Wholesale Trade","Q1_low",2350,0.873848378208126
+"CNS06","Wholesale Trade","Q1_low",2400,0.929604020163893
+"CNS06","Wholesale Trade","Q1_low",2450,0.93321728125535
+"CNS06","Wholesale Trade","Q1_low",2500,0.935309056710933
+"CNS06","Wholesale Trade","Q1_low",2550,0.940183642388666
+"CNS06","Wholesale Trade","Q1_low",2600,0.939343878184664
+"CNS06","Wholesale Trade","Q1_low",2650,0.936899667672877
+"CNS06","Wholesale Trade","Q1_low",2700,0.938524035865505
+"CNS06","Wholesale Trade","Q1_low",2750,0.94036683120362
+"CNS06","Wholesale Trade","Q1_low",2800,0.945759919077519
+"CNS06","Wholesale Trade","Q1_low",2850,0.949763617555633
+"CNS06","Wholesale Trade","Q1_low",2900,0.948282830496126
+"CNS06","Wholesale Trade","Q1_low",2950,0.946736760666257
+"CNS06","Wholesale Trade","Q1_low",3000,0.964983846638022
+"CNS06","Wholesale Trade","Q1_low",3050,0.962854182124126
+"CNS06","Wholesale Trade","Q1_low",3100,0.967953766474704
+"CNS06","Wholesale Trade","Q1_low",3150,0.967099776595065
+"CNS06","Wholesale Trade","Q1_low",3200,0.967844758775073
+"CNS06","Wholesale Trade","Q1_low",3250,0.965449779651658
+"CNS06","Wholesale Trade","Q1_low",3300,0.961460228593525
+"CNS06","Wholesale Trade","Q1_low",3350,0.957628751812161
+"CNS06","Wholesale Trade","Q1_low",3400,0.957168190164395
+"CNS06","Wholesale Trade","Q1_low",3450,0.956386395399212
+"CNS06","Wholesale Trade","Q1_low",3500,0.966102908726912
+"CNS06","Wholesale Trade","Q1_low",3550,0.966972747459873
+"CNS06","Wholesale Trade","Q1_low",3600,0.974557793977994
+"CNS06","Wholesale Trade","Q1_low",3650,0.96902822716487
+"CNS06","Wholesale Trade","Q1_low",3700,0.972504175663867
+"CNS06","Wholesale Trade","Q1_low",3750,0.96121719744639
+"CNS06","Wholesale Trade","Q1_low",3800,0.966324104279007
+"CNS06","Wholesale Trade","Q1_low",3850,0.961797008828995
+"CNS06","Wholesale Trade","Q1_low",3900,0.953790523499308
+"CNS06","Wholesale Trade","Q1_low",3950,0.951266828440804
+"CNS06","Wholesale Trade","Q1_low",4000,0.946572231313979
+"CNS06","Wholesale Trade","Q1_low",4050,0.945155256108978
+"CNS06","Wholesale Trade","Q1_low",4100,0.943613480365851
+"CNS06","Wholesale Trade","Q1_low",4150,0.947406677212842
+"CNS06","Wholesale Trade","Q1_low",4200,0.943671361517387
+"CNS06","Wholesale Trade","Q1_low",4250,0.941211497866468
+"CNS06","Wholesale Trade","Q1_low",4300,0.949946616374332
+"CNS06","Wholesale Trade","Q1_low",4350,0.948619401408139
+"CNS06","Wholesale Trade","Q1_low",4400,0.955928513358663
+"CNS06","Wholesale Trade","Q1_low",4450,0.96381414944681
+"CNS06","Wholesale Trade","Q1_low",4500,0.96218790269681
+"CNS06","Wholesale Trade","Q1_low",4550,0.976559700177318
+"CNS06","Wholesale Trade","Q1_low",4600,0.971742119577164
+"CNS06","Wholesale Trade","Q1_low",4650,0.972955808927653
+"CNS06","Wholesale Trade","Q1_low",4700,0.96980962448039
+"CNS06","Wholesale Trade","Q1_low",4750,0.9709442302575
+"CNS06","Wholesale Trade","Q1_low",4800,0.966825780877768
+"CNS06","Wholesale Trade","Q1_low",4850,0.97288408821138
+"CNS06","Wholesale Trade","Q1_low",4900,0.971947428151241
+"CNS06","Wholesale Trade","Q1_low",4950,0.970112602844819
+"CNS06","Wholesale Trade","Q1_low",5000,0.97526149584874
+"CNS06","Wholesale Trade","Q2",0,0
+"CNS06","Wholesale Trade","Q2",50,0.00062637367505462
+"CNS06","Wholesale Trade","Q2",100,0.0608566120637088
+"CNS06","Wholesale Trade","Q2",150,0.152176766560181
+"CNS06","Wholesale Trade","Q2",200,0.175971802620321
+"CNS06","Wholesale Trade","Q2",250,0.284585922442885
+"CNS06","Wholesale Trade","Q2",300,0.442205536174903
+"CNS06","Wholesale Trade","Q2",350,0.484393105087268
+"CNS06","Wholesale Trade","Q2",400,0.591793853377699
+"CNS06","Wholesale Trade","Q2",450,0.65291767810193
+"CNS06","Wholesale Trade","Q2",500,0.737285795851648
+"CNS06","Wholesale Trade","Q2",550,0.694320868624711
+"CNS06","Wholesale Trade","Q2",600,0.735586008754173
+"CNS06","Wholesale Trade","Q2",650,0.798379291933475
+"CNS06","Wholesale Trade","Q2",700,0.851047803536602
+"CNS06","Wholesale Trade","Q2",750,0.886569458156356
+"CNS06","Wholesale Trade","Q2",800,0.871642368309363
+"CNS06","Wholesale Trade","Q2",850,0.845138311932924
+"CNS06","Wholesale Trade","Q2",900,0.872192977486815
+"CNS06","Wholesale Trade","Q2",950,0.874967486257959
+"CNS06","Wholesale Trade","Q2",1000,0.846778541632464
+"CNS06","Wholesale Trade","Q2",1050,0.880607788424878
+"CNS06","Wholesale Trade","Q2",1100,0.908007417729733
+"CNS06","Wholesale Trade","Q2",1150,0.898583928605925
+"CNS06","Wholesale Trade","Q2",1200,0.890547591018418
+"CNS06","Wholesale Trade","Q2",1250,0.89136608995467
+"CNS06","Wholesale Trade","Q2",1300,0.892931681650886
+"CNS06","Wholesale Trade","Q2",1350,0.888794640660536
+"CNS06","Wholesale Trade","Q2",1400,0.897588635995593
+"CNS06","Wholesale Trade","Q2",1450,0.898540857678898
+"CNS06","Wholesale Trade","Q2",1500,0.909392205098798
+"CNS06","Wholesale Trade","Q2",1550,0.921980259645553
+"CNS06","Wholesale Trade","Q2",1600,0.921076823714186
+"CNS06","Wholesale Trade","Q2",1650,0.91586543861979
+"CNS06","Wholesale Trade","Q2",1700,0.911835445092643
+"CNS06","Wholesale Trade","Q2",1750,0.912055864501639
+"CNS06","Wholesale Trade","Q2",1800,0.918663328122533
+"CNS06","Wholesale Trade","Q2",1850,0.91682922934778
+"CNS06","Wholesale Trade","Q2",1900,0.91292654726657
+"CNS06","Wholesale Trade","Q2",1950,0.914024940841262
+"CNS06","Wholesale Trade","Q2",2000,0.910282509323571
+"CNS06","Wholesale Trade","Q2",2050,0.909656834182814
+"CNS06","Wholesale Trade","Q2",2100,0.911553543175049
+"CNS06","Wholesale Trade","Q2",2150,0.914080235686966
+"CNS06","Wholesale Trade","Q2",2200,0.906650543246654
+"CNS06","Wholesale Trade","Q2",2250,0.911887408205585
+"CNS06","Wholesale Trade","Q2",2300,0.920723593878478
+"CNS06","Wholesale Trade","Q2",2350,0.919257697604346
+"CNS06","Wholesale Trade","Q2",2400,0.917983115922001
+"CNS06","Wholesale Trade","Q2",2450,0.918890305522866
+"CNS06","Wholesale Trade","Q2",2500,0.916332613845885
+"CNS06","Wholesale Trade","Q2",2550,0.919484679461073
+"CNS06","Wholesale Trade","Q2",2600,0.922755612012786
+"CNS06","Wholesale Trade","Q2",2650,0.919179799699834
+"CNS06","Wholesale Trade","Q2",2700,0.928392735472594
+"CNS06","Wholesale Trade","Q2",2750,0.920333411032057
+"CNS06","Wholesale Trade","Q2",2800,0.920520096590273
+"CNS06","Wholesale Trade","Q2",2850,0.921891841195013
+"CNS06","Wholesale Trade","Q2",2900,0.9247447101453
+"CNS06","Wholesale Trade","Q2",2950,0.92700828750342
+"CNS06","Wholesale Trade","Q2",3000,0.923434294848807
+"CNS06","Wholesale Trade","Q2",3050,0.929010820189432
+"CNS06","Wholesale Trade","Q2",3100,0.931385724679422
+"CNS06","Wholesale Trade","Q2",3150,0.935499294580321
+"CNS06","Wholesale Trade","Q2",3200,0.933469874131771
+"CNS06","Wholesale Trade","Q2",3250,0.937966648249036
+"CNS06","Wholesale Trade","Q2",3300,0.941394430270606
+"CNS06","Wholesale Trade","Q2",3350,0.942893155832148
+"CNS06","Wholesale Trade","Q2",3400,0.949641363765258
+"CNS06","Wholesale Trade","Q2",3450,0.954016533223269
+"CNS06","Wholesale Trade","Q2",3500,0.950387524873364
+"CNS06","Wholesale Trade","Q2",3550,0.957722437585426
+"CNS06","Wholesale Trade","Q2",3600,0.959272692334528
+"CNS06","Wholesale Trade","Q2",3650,0.960721012549924
+"CNS06","Wholesale Trade","Q2",3700,0.962587011245282
+"CNS06","Wholesale Trade","Q2",3750,0.961030822648155
+"CNS06","Wholesale Trade","Q2",3800,0.961885573205893
+"CNS06","Wholesale Trade","Q2",3850,0.968679745160163
+"CNS06","Wholesale Trade","Q2",3900,0.969414942235118
+"CNS06","Wholesale Trade","Q2",3950,0.971925074171503
+"CNS06","Wholesale Trade","Q2",4000,0.974214948688592
+"CNS06","Wholesale Trade","Q2",4050,0.974461999852267
+"CNS06","Wholesale Trade","Q2",4100,0.971378078545701
+"CNS06","Wholesale Trade","Q2",4150,0.975078166019737
+"CNS06","Wholesale Trade","Q2",4200,0.975032012030168
+"CNS06","Wholesale Trade","Q2",4250,0.976632104703608
+"CNS06","Wholesale Trade","Q2",4300,0.972055988122158
+"CNS06","Wholesale Trade","Q2",4350,0.972473373166021
+"CNS06","Wholesale Trade","Q2",4400,0.97666024481576
+"CNS06","Wholesale Trade","Q2",4450,0.977345400008452
+"CNS06","Wholesale Trade","Q2",4500,0.979622550597092
+"CNS06","Wholesale Trade","Q2",4550,0.978348930491353
+"CNS06","Wholesale Trade","Q2",4600,0.976281931732451
+"CNS06","Wholesale Trade","Q2",4650,0.974622267446167
+"CNS06","Wholesale Trade","Q2",4700,0.975066729750144
+"CNS06","Wholesale Trade","Q2",4750,0.973467972330909
+"CNS06","Wholesale Trade","Q2",4800,0.972197278177857
+"CNS06","Wholesale Trade","Q2",4850,0.970318138862811
+"CNS06","Wholesale Trade","Q2",4900,0.972246270021672
+"CNS06","Wholesale Trade","Q2",4950,0.972227061474211
+"CNS06","Wholesale Trade","Q2",5000,0.976736446189776
+"CNS06","Wholesale Trade","Q3",0,0
+"CNS06","Wholesale Trade","Q3",50,0
+"CNS06","Wholesale Trade","Q3",100,0.0558292054237673
+"CNS06","Wholesale Trade","Q3",150,0.104518960726915
+"CNS06","Wholesale Trade","Q3",200,0.192719967219864
+"CNS06","Wholesale Trade","Q3",250,0.224311317991574
+"CNS06","Wholesale Trade","Q3",300,0.324875820093273
+"CNS06","Wholesale Trade","Q3",350,0.331473480192724
+"CNS06","Wholesale Trade","Q3",400,0.406937024126633
+"CNS06","Wholesale Trade","Q3",450,0.488651512970859
+"CNS06","Wholesale Trade","Q3",500,0.549366803715899
+"CNS06","Wholesale Trade","Q3",550,0.605770975495251
+"CNS06","Wholesale Trade","Q3",600,0.632709093223883
+"CNS06","Wholesale Trade","Q3",650,0.657580096148976
+"CNS06","Wholesale Trade","Q3",700,0.648977988081537
+"CNS06","Wholesale Trade","Q3",750,0.668894824780632
+"CNS06","Wholesale Trade","Q3",800,0.665345598121083
+"CNS06","Wholesale Trade","Q3",850,0.675888731169258
+"CNS06","Wholesale Trade","Q3",900,0.692179587040236
+"CNS06","Wholesale Trade","Q3",950,0.714246105935457
+"CNS06","Wholesale Trade","Q3",1000,0.711490437635204
+"CNS06","Wholesale Trade","Q3",1050,0.744101423554682
+"CNS06","Wholesale Trade","Q3",1100,0.774818505380951
+"CNS06","Wholesale Trade","Q3",1150,0.784210081945082
+"CNS06","Wholesale Trade","Q3",1200,0.787469437707939
+"CNS06","Wholesale Trade","Q3",1250,0.806538502390249
+"CNS06","Wholesale Trade","Q3",1300,0.826220288123846
+"CNS06","Wholesale Trade","Q3",1350,0.835719999179871
+"CNS06","Wholesale Trade","Q3",1400,0.853633570080314
+"CNS06","Wholesale Trade","Q3",1450,0.854006234293826
+"CNS06","Wholesale Trade","Q3",1500,0.847043764833574
+"CNS06","Wholesale Trade","Q3",1550,0.847392861202568
+"CNS06","Wholesale Trade","Q3",1600,0.858983597218971
+"CNS06","Wholesale Trade","Q3",1650,0.851166653323333
+"CNS06","Wholesale Trade","Q3",1700,0.852052935950487
+"CNS06","Wholesale Trade","Q3",1750,0.853676405719452
+"CNS06","Wholesale Trade","Q3",1800,0.850755445635409
+"CNS06","Wholesale Trade","Q3",1850,0.859248875205667
+"CNS06","Wholesale Trade","Q3",1900,0.852799413051375
+"CNS06","Wholesale Trade","Q3",1950,0.850791167701517
+"CNS06","Wholesale Trade","Q3",2000,0.853745785922289
+"CNS06","Wholesale Trade","Q3",2050,0.85107694610409
+"CNS06","Wholesale Trade","Q3",2100,0.849909656682288
+"CNS06","Wholesale Trade","Q3",2150,0.858863961971134
+"CNS06","Wholesale Trade","Q3",2200,0.859317381303347
+"CNS06","Wholesale Trade","Q3",2250,0.860555463851947
+"CNS06","Wholesale Trade","Q3",2300,0.866123272227519
+"CNS06","Wholesale Trade","Q3",2350,0.865886775603602
+"CNS06","Wholesale Trade","Q3",2400,0.88107418366066
+"CNS06","Wholesale Trade","Q3",2450,0.879619704632801
+"CNS06","Wholesale Trade","Q3",2500,0.877425919968651
+"CNS06","Wholesale Trade","Q3",2550,0.889210299770472
+"CNS06","Wholesale Trade","Q3",2600,0.888169972500991
+"CNS06","Wholesale Trade","Q3",2650,0.886878682062479
+"CNS06","Wholesale Trade","Q3",2700,0.883595234499803
+"CNS06","Wholesale Trade","Q3",2750,0.881896821626289
+"CNS06","Wholesale Trade","Q3",2800,0.88121719955831
+"CNS06","Wholesale Trade","Q3",2850,0.884503138464241
+"CNS06","Wholesale Trade","Q3",2900,0.886593848249832
+"CNS06","Wholesale Trade","Q3",2950,0.887691441607973
+"CNS06","Wholesale Trade","Q3",3000,0.891906453900115
+"CNS06","Wholesale Trade","Q3",3050,0.900097553969043
+"CNS06","Wholesale Trade","Q3",3100,0.900352546785341
+"CNS06","Wholesale Trade","Q3",3150,0.90203800326902
+"CNS06","Wholesale Trade","Q3",3200,0.908194202628572
+"CNS06","Wholesale Trade","Q3",3250,0.913885772730676
+"CNS06","Wholesale Trade","Q3",3300,0.913276421402715
+"CNS06","Wholesale Trade","Q3",3350,0.910156222607486
+"CNS06","Wholesale Trade","Q3",3400,0.912025021759162
+"CNS06","Wholesale Trade","Q3",3450,0.910788791484101
+"CNS06","Wholesale Trade","Q3",3500,0.910402875626552
+"CNS06","Wholesale Trade","Q3",3550,0.908619893390194
+"CNS06","Wholesale Trade","Q3",3600,0.91438520421644
+"CNS06","Wholesale Trade","Q3",3650,0.912874010485362
+"CNS06","Wholesale Trade","Q3",3700,0.910543668568572
+"CNS06","Wholesale Trade","Q3",3750,0.9088032687232
+"CNS06","Wholesale Trade","Q3",3800,0.908882367030413
+"CNS06","Wholesale Trade","Q3",3850,0.906254286537575
+"CNS06","Wholesale Trade","Q3",3900,0.901866307089886
+"CNS06","Wholesale Trade","Q3",3950,0.90166218502386
+"CNS06","Wholesale Trade","Q3",4000,0.899006639932457
+"CNS06","Wholesale Trade","Q3",4050,0.898791810415636
+"CNS06","Wholesale Trade","Q3",4100,0.897408369572685
+"CNS06","Wholesale Trade","Q3",4150,0.895443681736661
+"CNS06","Wholesale Trade","Q3",4200,0.899498415687202
+"CNS06","Wholesale Trade","Q3",4250,0.896705965053875
+"CNS06","Wholesale Trade","Q3",4300,0.900224968935345
+"CNS06","Wholesale Trade","Q3",4350,0.898503042931012
+"CNS06","Wholesale Trade","Q3",4400,0.901527477657004
+"CNS06","Wholesale Trade","Q3",4450,0.902763951919855
+"CNS06","Wholesale Trade","Q3",4500,0.904976806948612
+"CNS06","Wholesale Trade","Q3",4550,0.904291323064719
+"CNS06","Wholesale Trade","Q3",4600,0.904837786612652
+"CNS06","Wholesale Trade","Q3",4650,0.905905636401738
+"CNS06","Wholesale Trade","Q3",4700,0.905262731719365
+"CNS06","Wholesale Trade","Q3",4750,0.903804278071925
+"CNS06","Wholesale Trade","Q3",4800,0.910401587063565
+"CNS06","Wholesale Trade","Q3",4850,0.909537262969078
+"CNS06","Wholesale Trade","Q3",4900,0.908033737794356
+"CNS06","Wholesale Trade","Q3",4950,0.91052275901089
+"CNS06","Wholesale Trade","Q3",5000,0.918641610721811
+"CNS06","Wholesale Trade","Q4_high",0,0
+"CNS06","Wholesale Trade","Q4_high",50,0.0727245969470737
+"CNS06","Wholesale Trade","Q4_high",100,0.256052733931953
+"CNS06","Wholesale Trade","Q4_high",150,0.519243641281202
+"CNS06","Wholesale Trade","Q4_high",200,0.702352272702291
+"CNS06","Wholesale Trade","Q4_high",250,0.836078372837771
+"CNS06","Wholesale Trade","Q4_high",300,0.917323135232008
+"CNS06","Wholesale Trade","Q4_high",350,1.00027809443036
+"CNS06","Wholesale Trade","Q4_high",400,1.06804379667429
+"CNS06","Wholesale Trade","Q4_high",450,1.13184650811898
+"CNS06","Wholesale Trade","Q4_high",500,1.14786642887136
+"CNS06","Wholesale Trade","Q4_high",550,1.15861442668305
+"CNS06","Wholesale Trade","Q4_high",600,1.20755944584671
+"CNS06","Wholesale Trade","Q4_high",650,1.21776681589304
+"CNS06","Wholesale Trade","Q4_high",700,1.23827247838438
+"CNS06","Wholesale Trade","Q4_high",750,1.21845906221884
+"CNS06","Wholesale Trade","Q4_high",800,1.2064239064764
+"CNS06","Wholesale Trade","Q4_high",850,1.21635264582158
+"CNS06","Wholesale Trade","Q4_high",900,1.22042274850921
+"CNS06","Wholesale Trade","Q4_high",950,1.22175902545007
+"CNS06","Wholesale Trade","Q4_high",1000,1.22430724044094
+"CNS06","Wholesale Trade","Q4_high",1050,1.20389264908866
+"CNS06","Wholesale Trade","Q4_high",1100,1.19570729673904
+"CNS06","Wholesale Trade","Q4_high",1150,1.18947990176039
+"CNS06","Wholesale Trade","Q4_high",1200,1.18859276410852
+"CNS06","Wholesale Trade","Q4_high",1250,1.1856895560682
+"CNS06","Wholesale Trade","Q4_high",1300,1.18012654591776
+"CNS06","Wholesale Trade","Q4_high",1350,1.18461530433641
+"CNS06","Wholesale Trade","Q4_high",1400,1.18144300591763
+"CNS06","Wholesale Trade","Q4_high",1450,1.16416556315699
+"CNS06","Wholesale Trade","Q4_high",1500,1.16966176549093
+"CNS06","Wholesale Trade","Q4_high",1550,1.17047706260485
+"CNS06","Wholesale Trade","Q4_high",1600,1.1557106961682
+"CNS06","Wholesale Trade","Q4_high",1650,1.15212102983127
+"CNS06","Wholesale Trade","Q4_high",1700,1.14541467370433
+"CNS06","Wholesale Trade","Q4_high",1750,1.13807334503537
+"CNS06","Wholesale Trade","Q4_high",1800,1.13700379534095
+"CNS06","Wholesale Trade","Q4_high",1850,1.14040461366968
+"CNS06","Wholesale Trade","Q4_high",1900,1.13730763342303
+"CNS06","Wholesale Trade","Q4_high",1950,1.13628744358258
+"CNS06","Wholesale Trade","Q4_high",2000,1.12838667208445
+"CNS06","Wholesale Trade","Q4_high",2050,1.12481051948161
+"CNS06","Wholesale Trade","Q4_high",2100,1.12129610899257
+"CNS06","Wholesale Trade","Q4_high",2150,1.11996533083271
+"CNS06","Wholesale Trade","Q4_high",2200,1.11604240224648
+"CNS06","Wholesale Trade","Q4_high",2250,1.11641488488373
+"CNS06","Wholesale Trade","Q4_high",2300,1.11382159269633
+"CNS06","Wholesale Trade","Q4_high",2350,1.11525930017254
+"CNS06","Wholesale Trade","Q4_high",2400,1.11315589435344
+"CNS06","Wholesale Trade","Q4_high",2450,1.11313955389584
+"CNS06","Wholesale Trade","Q4_high",2500,1.10979083437978
+"CNS06","Wholesale Trade","Q4_high",2550,1.10678504619339
+"CNS06","Wholesale Trade","Q4_high",2600,1.10815903738783
+"CNS06","Wholesale Trade","Q4_high",2650,1.10689416640126
+"CNS06","Wholesale Trade","Q4_high",2700,1.11184769412675
+"CNS06","Wholesale Trade","Q4_high",2750,1.10528789788412
+"CNS06","Wholesale Trade","Q4_high",2800,1.10223828505746
+"CNS06","Wholesale Trade","Q4_high",2850,1.10250670883235
+"CNS06","Wholesale Trade","Q4_high",2900,1.09806488780965
+"CNS06","Wholesale Trade","Q4_high",2950,1.09630215762244
+"CNS06","Wholesale Trade","Q4_high",3000,1.0950420845656
+"CNS06","Wholesale Trade","Q4_high",3050,1.09541588900456
+"CNS06","Wholesale Trade","Q4_high",3100,1.09199151184982
+"CNS06","Wholesale Trade","Q4_high",3150,1.08940421784666
+"CNS06","Wholesale Trade","Q4_high",3200,1.08470205856745
+"CNS06","Wholesale Trade","Q4_high",3250,1.08360135662937
+"CNS06","Wholesale Trade","Q4_high",3300,1.08265729464195
+"CNS06","Wholesale Trade","Q4_high",3350,1.07543635668137
+"CNS06","Wholesale Trade","Q4_high",3400,1.07754516854054
+"CNS06","Wholesale Trade","Q4_high",3450,1.07653844396486
+"CNS06","Wholesale Trade","Q4_high",3500,1.07842255895542
+"CNS06","Wholesale Trade","Q4_high",3550,1.07863994570853
+"CNS06","Wholesale Trade","Q4_high",3600,1.07875340637506
+"CNS06","Wholesale Trade","Q4_high",3650,1.07593505238444
+"CNS06","Wholesale Trade","Q4_high",3700,1.07245180108028
+"CNS06","Wholesale Trade","Q4_high",3750,1.06941007161252
+"CNS06","Wholesale Trade","Q4_high",3800,1.07013034119246
+"CNS06","Wholesale Trade","Q4_high",3850,1.07063560715823
+"CNS06","Wholesale Trade","Q4_high",3900,1.07195120818554
+"CNS06","Wholesale Trade","Q4_high",3950,1.06830495436932
+"CNS06","Wholesale Trade","Q4_high",4000,1.06970542251709
+"CNS06","Wholesale Trade","Q4_high",4050,1.07019169226812
+"CNS06","Wholesale Trade","Q4_high",4100,1.07029063121408
+"CNS06","Wholesale Trade","Q4_high",4150,1.06961676367109
+"CNS06","Wholesale Trade","Q4_high",4200,1.07025910784789
+"CNS06","Wholesale Trade","Q4_high",4250,1.06979481627112
+"CNS06","Wholesale Trade","Q4_high",4300,1.06840042568628
+"CNS06","Wholesale Trade","Q4_high",4350,1.07102514736402
+"CNS06","Wholesale Trade","Q4_high",4400,1.07030083617775
+"CNS06","Wholesale Trade","Q4_high",4450,1.07029376089422
+"CNS06","Wholesale Trade","Q4_high",4500,1.07029419455159
+"CNS06","Wholesale Trade","Q4_high",4550,1.06939736417327
+"CNS06","Wholesale Trade","Q4_high",4600,1.0707238905953
+"CNS06","Wholesale Trade","Q4_high",4650,1.07022382810095
+"CNS06","Wholesale Trade","Q4_high",4700,1.06684487450334
+"CNS06","Wholesale Trade","Q4_high",4750,1.06617814180461
+"CNS06","Wholesale Trade","Q4_high",4800,1.06524629505313
+"CNS06","Wholesale Trade","Q4_high",4850,1.06754665998928
+"CNS06","Wholesale Trade","Q4_high",4900,1.06796586520318
+"CNS06","Wholesale Trade","Q4_high",4950,1.06600330003018
+"CNS06","Wholesale Trade","Q4_high",5000,1.0656807473365
+"CNS07","Retail Trade","Q1_low",0,0
+"CNS07","Retail Trade","Q1_low",50,0.0123379101327133
+"CNS07","Retail Trade","Q1_low",100,0.0761331121634684
+"CNS07","Retail Trade","Q1_low",150,0.215229859065773
+"CNS07","Retail Trade","Q1_low",200,0.288783836385049
+"CNS07","Retail Trade","Q1_low",250,0.336209458655788
+"CNS07","Retail Trade","Q1_low",300,0.397911657248864
+"CNS07","Retail Trade","Q1_low",350,0.472919823698369
+"CNS07","Retail Trade","Q1_low",400,0.526282657151171
+"CNS07","Retail Trade","Q1_low",450,0.577369344051482
+"CNS07","Retail Trade","Q1_low",500,0.627438271840584
+"CNS07","Retail Trade","Q1_low",550,0.682126080627885
+"CNS07","Retail Trade","Q1_low",600,0.714318104743305
+"CNS07","Retail Trade","Q1_low",650,0.741891097415722
+"CNS07","Retail Trade","Q1_low",700,0.78479819809412
+"CNS07","Retail Trade","Q1_low",750,0.810144407368791
+"CNS07","Retail Trade","Q1_low",800,0.81580959523442
+"CNS07","Retail Trade","Q1_low",850,0.845333081257847
+"CNS07","Retail Trade","Q1_low",900,0.859806141122232
+"CNS07","Retail Trade","Q1_low",950,0.87148683940131
+"CNS07","Retail Trade","Q1_low",1000,0.89058705747491
+"CNS07","Retail Trade","Q1_low",1050,0.905252077816644
+"CNS07","Retail Trade","Q1_low",1100,0.925397396827113
+"CNS07","Retail Trade","Q1_low",1150,0.94181606187934
+"CNS07","Retail Trade","Q1_low",1200,0.943696403983779
+"CNS07","Retail Trade","Q1_low",1250,0.949853842673157
+"CNS07","Retail Trade","Q1_low",1300,0.971458039543036
+"CNS07","Retail Trade","Q1_low",1350,0.971770548075211
+"CNS07","Retail Trade","Q1_low",1400,0.971572109041397
+"CNS07","Retail Trade","Q1_low",1450,0.980936779521485
+"CNS07","Retail Trade","Q1_low",1500,1.00386655415937
+"CNS07","Retail Trade","Q1_low",1550,1.00164326883837
+"CNS07","Retail Trade","Q1_low",1600,1.01259973909661
+"CNS07","Retail Trade","Q1_low",1650,1.00972668964945
+"CNS07","Retail Trade","Q1_low",1700,1.01248369215019
+"CNS07","Retail Trade","Q1_low",1750,1.01066187727237
+"CNS07","Retail Trade","Q1_low",1800,1.01016429322938
+"CNS07","Retail Trade","Q1_low",1850,1.01750484279648
+"CNS07","Retail Trade","Q1_low",1900,1.02698992724587
+"CNS07","Retail Trade","Q1_low",1950,1.02617658723459
+"CNS07","Retail Trade","Q1_low",2000,1.02857713997895
+"CNS07","Retail Trade","Q1_low",2050,1.03037221021083
+"CNS07","Retail Trade","Q1_low",2100,1.03582858146057
+"CNS07","Retail Trade","Q1_low",2150,1.03299412990712
+"CNS07","Retail Trade","Q1_low",2200,1.03495298387544
+"CNS07","Retail Trade","Q1_low",2250,1.03831546410907
+"CNS07","Retail Trade","Q1_low",2300,1.04169694758411
+"CNS07","Retail Trade","Q1_low",2350,1.04786242406947
+"CNS07","Retail Trade","Q1_low",2400,1.05105125890822
+"CNS07","Retail Trade","Q1_low",2450,1.0572991611745
+"CNS07","Retail Trade","Q1_low",2500,1.05213279265555
+"CNS07","Retail Trade","Q1_low",2550,1.05656931660921
+"CNS07","Retail Trade","Q1_low",2600,1.05953845888842
+"CNS07","Retail Trade","Q1_low",2650,1.05672866459646
+"CNS07","Retail Trade","Q1_low",2700,1.05377691983188
+"CNS07","Retail Trade","Q1_low",2750,1.05311618839676
+"CNS07","Retail Trade","Q1_low",2800,1.05447049307629
+"CNS07","Retail Trade","Q1_low",2850,1.0531175694337
+"CNS07","Retail Trade","Q1_low",2900,1.05221659678319
+"CNS07","Retail Trade","Q1_low",2950,1.048882110836
+"CNS07","Retail Trade","Q1_low",3000,1.04514498897913
+"CNS07","Retail Trade","Q1_low",3050,1.04506108861685
+"CNS07","Retail Trade","Q1_low",3100,1.04602009907787
+"CNS07","Retail Trade","Q1_low",3150,1.04559942104585
+"CNS07","Retail Trade","Q1_low",3200,1.04677321658521
+"CNS07","Retail Trade","Q1_low",3250,1.0468168516558
+"CNS07","Retail Trade","Q1_low",3300,1.04279312473441
+"CNS07","Retail Trade","Q1_low",3350,1.04720186057635
+"CNS07","Retail Trade","Q1_low",3400,1.04369216091987
+"CNS07","Retail Trade","Q1_low",3450,1.04157593663341
+"CNS07","Retail Trade","Q1_low",3500,1.04490430161286
+"CNS07","Retail Trade","Q1_low",3550,1.04411527542621
+"CNS07","Retail Trade","Q1_low",3600,1.04809610545359
+"CNS07","Retail Trade","Q1_low",3650,1.04648715264963
+"CNS07","Retail Trade","Q1_low",3700,1.04794554780952
+"CNS07","Retail Trade","Q1_low",3750,1.05207107204098
+"CNS07","Retail Trade","Q1_low",3800,1.05111021903418
+"CNS07","Retail Trade","Q1_low",3850,1.04838367649262
+"CNS07","Retail Trade","Q1_low",3900,1.04475796998661
+"CNS07","Retail Trade","Q1_low",3950,1.04636291524027
+"CNS07","Retail Trade","Q1_low",4000,1.04708499335328
+"CNS07","Retail Trade","Q1_low",4050,1.04734360953084
+"CNS07","Retail Trade","Q1_low",4100,1.04894472726841
+"CNS07","Retail Trade","Q1_low",4150,1.05254815787535
+"CNS07","Retail Trade","Q1_low",4200,1.04925849114384
+"CNS07","Retail Trade","Q1_low",4250,1.05271665533289
+"CNS07","Retail Trade","Q1_low",4300,1.05161198296214
+"CNS07","Retail Trade","Q1_low",4350,1.04824763881908
+"CNS07","Retail Trade","Q1_low",4400,1.04932170496531
+"CNS07","Retail Trade","Q1_low",4450,1.04563495221947
+"CNS07","Retail Trade","Q1_low",4500,1.04301690421352
+"CNS07","Retail Trade","Q1_low",4550,1.0418626546469
+"CNS07","Retail Trade","Q1_low",4600,1.04143140884441
+"CNS07","Retail Trade","Q1_low",4650,1.03723929314592
+"CNS07","Retail Trade","Q1_low",4700,1.03827128257293
+"CNS07","Retail Trade","Q1_low",4750,1.03350388620396
+"CNS07","Retail Trade","Q1_low",4800,1.03176186661721
+"CNS07","Retail Trade","Q1_low",4850,1.03111764553864
+"CNS07","Retail Trade","Q1_low",4900,1.02790804129527
+"CNS07","Retail Trade","Q1_low",4950,1.0268662472738
+"CNS07","Retail Trade","Q1_low",5000,1.02710988138965
+"CNS07","Retail Trade","Q2",0,0
+"CNS07","Retail Trade","Q2",50,0.0124309212955149
+"CNS07","Retail Trade","Q2",100,0.107147119177002
+"CNS07","Retail Trade","Q2",150,0.212881514767932
+"CNS07","Retail Trade","Q2",200,0.291202217041345
+"CNS07","Retail Trade","Q2",250,0.393169101337998
+"CNS07","Retail Trade","Q2",300,0.467948858160515
+"CNS07","Retail Trade","Q2",350,0.534861653317018
+"CNS07","Retail Trade","Q2",400,0.60045679901149
+"CNS07","Retail Trade","Q2",450,0.661202040766152
+"CNS07","Retail Trade","Q2",500,0.718486161146389
+"CNS07","Retail Trade","Q2",550,0.750263293254091
+"CNS07","Retail Trade","Q2",600,0.781045440979072
+"CNS07","Retail Trade","Q2",650,0.800750974612753
+"CNS07","Retail Trade","Q2",700,0.829881127894368
+"CNS07","Retail Trade","Q2",750,0.861795160431891
+"CNS07","Retail Trade","Q2",800,0.893286426719413
+"CNS07","Retail Trade","Q2",850,0.911673258306074
+"CNS07","Retail Trade","Q2",900,0.919461104722999
+"CNS07","Retail Trade","Q2",950,0.933975261530056
+"CNS07","Retail Trade","Q2",1000,0.956322817128482
+"CNS07","Retail Trade","Q2",1050,0.968888048609462
+"CNS07","Retail Trade","Q2",1100,0.970442612690673
+"CNS07","Retail Trade","Q2",1150,0.963807983909394
+"CNS07","Retail Trade","Q2",1200,0.970024165696366
+"CNS07","Retail Trade","Q2",1250,0.978505480917689
+"CNS07","Retail Trade","Q2",1300,0.982545023279145
+"CNS07","Retail Trade","Q2",1350,0.983478079902127
+"CNS07","Retail Trade","Q2",1400,0.99023515673498
+"CNS07","Retail Trade","Q2",1450,0.9952008175009
+"CNS07","Retail Trade","Q2",1500,0.999702776138218
+"CNS07","Retail Trade","Q2",1550,0.996947310252841
+"CNS07","Retail Trade","Q2",1600,0.996835844565764
+"CNS07","Retail Trade","Q2",1650,1.00134157315984
+"CNS07","Retail Trade","Q2",1700,1.00858550325507
+"CNS07","Retail Trade","Q2",1750,1.01103166713335
+"CNS07","Retail Trade","Q2",1800,1.01938827551149
+"CNS07","Retail Trade","Q2",1850,1.0201837347501
+"CNS07","Retail Trade","Q2",1900,1.02370566894043
+"CNS07","Retail Trade","Q2",1950,1.0257256568567
+"CNS07","Retail Trade","Q2",2000,1.02729056305369
+"CNS07","Retail Trade","Q2",2050,1.02500975563695
+"CNS07","Retail Trade","Q2",2100,1.02853807897675
+"CNS07","Retail Trade","Q2",2150,1.03639101379667
+"CNS07","Retail Trade","Q2",2200,1.03765228435203
+"CNS07","Retail Trade","Q2",2250,1.03548703224479
+"CNS07","Retail Trade","Q2",2300,1.03574883970326
+"CNS07","Retail Trade","Q2",2350,1.03093942428745
+"CNS07","Retail Trade","Q2",2400,1.03147776210253
+"CNS07","Retail Trade","Q2",2450,1.03112581591613
+"CNS07","Retail Trade","Q2",2500,1.02976836026092
+"CNS07","Retail Trade","Q2",2550,1.02972653619734
+"CNS07","Retail Trade","Q2",2600,1.02645499811062
+"CNS07","Retail Trade","Q2",2650,1.02822680392105
+"CNS07","Retail Trade","Q2",2700,1.02772859214123
+"CNS07","Retail Trade","Q2",2750,1.02788784017911
+"CNS07","Retail Trade","Q2",2800,1.03304628208484
+"CNS07","Retail Trade","Q2",2850,1.03348912409093
+"CNS07","Retail Trade","Q2",2900,1.0321202059594
+"CNS07","Retail Trade","Q2",2950,1.03285801057675
+"CNS07","Retail Trade","Q2",3000,1.03198426957791
+"CNS07","Retail Trade","Q2",3050,1.03064703250304
+"CNS07","Retail Trade","Q2",3100,1.02817394909648
+"CNS07","Retail Trade","Q2",3150,1.03022969522198
+"CNS07","Retail Trade","Q2",3200,1.02831727198518
+"CNS07","Retail Trade","Q2",3250,1.03110856884997
+"CNS07","Retail Trade","Q2",3300,1.03125739430875
+"CNS07","Retail Trade","Q2",3350,1.02992563964244
+"CNS07","Retail Trade","Q2",3400,1.03136034008299
+"CNS07","Retail Trade","Q2",3450,1.03122405605854
+"CNS07","Retail Trade","Q2",3500,1.03262430427893
+"CNS07","Retail Trade","Q2",3550,1.03434455466393
+"CNS07","Retail Trade","Q2",3600,1.03534109526143
+"CNS07","Retail Trade","Q2",3650,1.03356226738044
+"CNS07","Retail Trade","Q2",3700,1.03252757507205
+"CNS07","Retail Trade","Q2",3750,1.03370458945143
+"CNS07","Retail Trade","Q2",3800,1.03293879675461
+"CNS07","Retail Trade","Q2",3850,1.03365106477545
+"CNS07","Retail Trade","Q2",3900,1.0353214304437
+"CNS07","Retail Trade","Q2",3950,1.03809817416645
+"CNS07","Retail Trade","Q2",4000,1.04127222641219
+"CNS07","Retail Trade","Q2",4050,1.04319704934059
+"CNS07","Retail Trade","Q2",4100,1.04150642425041
+"CNS07","Retail Trade","Q2",4150,1.04097107614027
+"CNS07","Retail Trade","Q2",4200,1.04167256874361
+"CNS07","Retail Trade","Q2",4250,1.03925770600443
+"CNS07","Retail Trade","Q2",4300,1.03608588001529
+"CNS07","Retail Trade","Q2",4350,1.03686149456666
+"CNS07","Retail Trade","Q2",4400,1.03814434290186
+"CNS07","Retail Trade","Q2",4450,1.03880140898086
+"CNS07","Retail Trade","Q2",4500,1.03982476958283
+"CNS07","Retail Trade","Q2",4550,1.04061803931833
+"CNS07","Retail Trade","Q2",4600,1.04161867381941
+"CNS07","Retail Trade","Q2",4650,1.04197779289075
+"CNS07","Retail Trade","Q2",4700,1.04218236544024
+"CNS07","Retail Trade","Q2",4750,1.04175846949053
+"CNS07","Retail Trade","Q2",4800,1.0406728336425
+"CNS07","Retail Trade","Q2",4850,1.04138439153387
+"CNS07","Retail Trade","Q2",4900,1.04134337558557
+"CNS07","Retail Trade","Q2",4950,1.04057837116576
+"CNS07","Retail Trade","Q2",5000,1.03806925575243
+"CNS07","Retail Trade","Q3",0,0
+"CNS07","Retail Trade","Q3",50,0.00368106976780923
+"CNS07","Retail Trade","Q3",100,0.175043761870206
+"CNS07","Retail Trade","Q3",150,0.392468912411417
+"CNS07","Retail Trade","Q3",200,0.552129925887818
+"CNS07","Retail Trade","Q3",250,0.673271084182893
+"CNS07","Retail Trade","Q3",300,0.764734187064195
+"CNS07","Retail Trade","Q3",350,0.84044304064373
+"CNS07","Retail Trade","Q3",400,0.905249013375886
+"CNS07","Retail Trade","Q3",450,0.957312607637379
+"CNS07","Retail Trade","Q3",500,0.984838152847267
+"CNS07","Retail Trade","Q3",550,1.01637277441046
+"CNS07","Retail Trade","Q3",600,1.04259999884683
+"CNS07","Retail Trade","Q3",650,1.05914782089201
+"CNS07","Retail Trade","Q3",700,1.0844393906519
+"CNS07","Retail Trade","Q3",750,1.09898557763197
+"CNS07","Retail Trade","Q3",800,1.10672285940792
+"CNS07","Retail Trade","Q3",850,1.11699112857935
+"CNS07","Retail Trade","Q3",900,1.13123686735199
+"CNS07","Retail Trade","Q3",950,1.1327001230897
+"CNS07","Retail Trade","Q3",1000,1.13126989790274
+"CNS07","Retail Trade","Q3",1050,1.12922483767631
+"CNS07","Retail Trade","Q3",1100,1.13782949818917
+"CNS07","Retail Trade","Q3",1150,1.1416870714551
+"CNS07","Retail Trade","Q3",1200,1.14298957862229
+"CNS07","Retail Trade","Q3",1250,1.14341213126052
+"CNS07","Retail Trade","Q3",1300,1.14422886042427
+"CNS07","Retail Trade","Q3",1350,1.14498975482068
+"CNS07","Retail Trade","Q3",1400,1.15070898505087
+"CNS07","Retail Trade","Q3",1450,1.14993237053487
+"CNS07","Retail Trade","Q3",1500,1.150461461288
+"CNS07","Retail Trade","Q3",1550,1.15187657930647
+"CNS07","Retail Trade","Q3",1600,1.15883678578851
+"CNS07","Retail Trade","Q3",1650,1.15762568061506
+"CNS07","Retail Trade","Q3",1700,1.16184533366899
+"CNS07","Retail Trade","Q3",1750,1.16336527824935
+"CNS07","Retail Trade","Q3",1800,1.16566669003027
+"CNS07","Retail Trade","Q3",1850,1.16925872202267
+"CNS07","Retail Trade","Q3",1900,1.16845014504571
+"CNS07","Retail Trade","Q3",1950,1.16790554272978
+"CNS07","Retail Trade","Q3",2000,1.16568131796945
+"CNS07","Retail Trade","Q3",2050,1.16714919640257
+"CNS07","Retail Trade","Q3",2100,1.16644519643921
+"CNS07","Retail Trade","Q3",2150,1.16566167789088
+"CNS07","Retail Trade","Q3",2200,1.16664963371922
+"CNS07","Retail Trade","Q3",2250,1.16270895276638
+"CNS07","Retail Trade","Q3",2300,1.16591559967509
+"CNS07","Retail Trade","Q3",2350,1.16724940803007
+"CNS07","Retail Trade","Q3",2400,1.16667170212933
+"CNS07","Retail Trade","Q3",2450,1.1656709303828
+"CNS07","Retail Trade","Q3",2500,1.16507384858472
+"CNS07","Retail Trade","Q3",2550,1.16334487133735
+"CNS07","Retail Trade","Q3",2600,1.16152540576052
+"CNS07","Retail Trade","Q3",2650,1.16264994705862
+"CNS07","Retail Trade","Q3",2700,1.16346549094856
+"CNS07","Retail Trade","Q3",2750,1.16476116863853
+"CNS07","Retail Trade","Q3",2800,1.16683681836414
+"CNS07","Retail Trade","Q3",2850,1.16702396331697
+"CNS07","Retail Trade","Q3",2900,1.16499778306601
+"CNS07","Retail Trade","Q3",2950,1.16527413584691
+"CNS07","Retail Trade","Q3",3000,1.16335739814815
+"CNS07","Retail Trade","Q3",3050,1.15972976618983
+"CNS07","Retail Trade","Q3",3100,1.15940054006691
+"CNS07","Retail Trade","Q3",3150,1.15908193261741
+"CNS07","Retail Trade","Q3",3200,1.15947506585646
+"CNS07","Retail Trade","Q3",3250,1.15992584229427
+"CNS07","Retail Trade","Q3",3300,1.15890697159497
+"CNS07","Retail Trade","Q3",3350,1.15799230691771
+"CNS07","Retail Trade","Q3",3400,1.15816495799997
+"CNS07","Retail Trade","Q3",3450,1.15643109594993
+"CNS07","Retail Trade","Q3",3500,1.15578743743167
+"CNS07","Retail Trade","Q3",3550,1.15535146584679
+"CNS07","Retail Trade","Q3",3600,1.15590398425423
+"CNS07","Retail Trade","Q3",3650,1.15418157357213
+"CNS07","Retail Trade","Q3",3700,1.1549134199853
+"CNS07","Retail Trade","Q3",3750,1.15552655148152
+"CNS07","Retail Trade","Q3",3800,1.15634972511738
+"CNS07","Retail Trade","Q3",3850,1.15532829307283
+"CNS07","Retail Trade","Q3",3900,1.15440421656879
+"CNS07","Retail Trade","Q3",3950,1.15443024808375
+"CNS07","Retail Trade","Q3",4000,1.15649463408669
+"CNS07","Retail Trade","Q3",4050,1.15631102741318
+"CNS07","Retail Trade","Q3",4100,1.15671202488668
+"CNS07","Retail Trade","Q3",4150,1.15724824721763
+"CNS07","Retail Trade","Q3",4200,1.15748052300462
+"CNS07","Retail Trade","Q3",4250,1.1582510299204
+"CNS07","Retail Trade","Q3",4300,1.15782847116471
+"CNS07","Retail Trade","Q3",4350,1.15790723358531
+"CNS07","Retail Trade","Q3",4400,1.15766738315824
+"CNS07","Retail Trade","Q3",4450,1.15741804423797
+"CNS07","Retail Trade","Q3",4500,1.15751916502104
+"CNS07","Retail Trade","Q3",4550,1.15737824855582
+"CNS07","Retail Trade","Q3",4600,1.15760496959648
+"CNS07","Retail Trade","Q3",4650,1.15849892725772
+"CNS07","Retail Trade","Q3",4700,1.16008098510014
+"CNS07","Retail Trade","Q3",4750,1.16008880310138
+"CNS07","Retail Trade","Q3",4800,1.16042493281284
+"CNS07","Retail Trade","Q3",4850,1.16021057628992
+"CNS07","Retail Trade","Q3",4900,1.16111888250204
+"CNS07","Retail Trade","Q3",4950,1.1609590551494
+"CNS07","Retail Trade","Q3",5000,1.1590101055642
+"CNS07","Retail Trade","Q4_high",0,0
+"CNS07","Retail Trade","Q4_high",50,0.0465890740396374
+"CNS07","Retail Trade","Q4_high",100,0.464212106167005
+"CNS07","Retail Trade","Q4_high",150,0.889646727043459
+"CNS07","Retail Trade","Q4_high",200,1.07373421966284
+"CNS07","Retail Trade","Q4_high",250,1.22581118454065
+"CNS07","Retail Trade","Q4_high",300,1.28808713717922
+"CNS07","Retail Trade","Q4_high",350,1.35145962042657
+"CNS07","Retail Trade","Q4_high",400,1.37484561039161
+"CNS07","Retail Trade","Q4_high",450,1.39938284211574
+"CNS07","Retail Trade","Q4_high",500,1.42264532079028
+"CNS07","Retail Trade","Q4_high",550,1.44587192604403
+"CNS07","Retail Trade","Q4_high",600,1.4378136806104
+"CNS07","Retail Trade","Q4_high",650,1.45925267554437
+"CNS07","Retail Trade","Q4_high",700,1.44233215973711
+"CNS07","Retail Trade","Q4_high",750,1.4364385458275
+"CNS07","Retail Trade","Q4_high",800,1.42955772848471
+"CNS07","Retail Trade","Q4_high",850,1.41954190320474
+"CNS07","Retail Trade","Q4_high",900,1.40214513638315
+"CNS07","Retail Trade","Q4_high",950,1.37483119532774
+"CNS07","Retail Trade","Q4_high",1000,1.3602850575839
+"CNS07","Retail Trade","Q4_high",1050,1.35317172136319
+"CNS07","Retail Trade","Q4_high",1100,1.34067211186869
+"CNS07","Retail Trade","Q4_high",1150,1.33355543069789
+"CNS07","Retail Trade","Q4_high",1200,1.3174842997245
+"CNS07","Retail Trade","Q4_high",1250,1.29931421754271
+"CNS07","Retail Trade","Q4_high",1300,1.28667341622328
+"CNS07","Retail Trade","Q4_high",1350,1.27951166974549
+"CNS07","Retail Trade","Q4_high",1400,1.26745462801443
+"CNS07","Retail Trade","Q4_high",1450,1.25374916014425
+"CNS07","Retail Trade","Q4_high",1500,1.2427139324794
+"CNS07","Retail Trade","Q4_high",1550,1.23878776727184
+"CNS07","Retail Trade","Q4_high",1600,1.23918123656619
+"CNS07","Retail Trade","Q4_high",1650,1.23355089353573
+"CNS07","Retail Trade","Q4_high",1700,1.23340148847195
+"CNS07","Retail Trade","Q4_high",1750,1.22611247883413
+"CNS07","Retail Trade","Q4_high",1800,1.22176084758137
+"CNS07","Retail Trade","Q4_high",1850,1.2193796372557
+"CNS07","Retail Trade","Q4_high",1900,1.21729998957835
+"CNS07","Retail Trade","Q4_high",1950,1.21600887649889
+"CNS07","Retail Trade","Q4_high",2000,1.21635535648598
+"CNS07","Retail Trade","Q4_high",2050,1.21218079946555
+"CNS07","Retail Trade","Q4_high",2100,1.2051106842177
+"CNS07","Retail Trade","Q4_high",2150,1.20653636810537
+"CNS07","Retail Trade","Q4_high",2200,1.20353344990047
+"CNS07","Retail Trade","Q4_high",2250,1.20015784595745
+"CNS07","Retail Trade","Q4_high",2300,1.19817746260004
+"CNS07","Retail Trade","Q4_high",2350,1.19905622646375
+"CNS07","Retail Trade","Q4_high",2400,1.19653575484944
+"CNS07","Retail Trade","Q4_high",2450,1.1924153205074
+"CNS07","Retail Trade","Q4_high",2500,1.19327818644173
+"CNS07","Retail Trade","Q4_high",2550,1.19449603338945
+"CNS07","Retail Trade","Q4_high",2600,1.19407527406164
+"CNS07","Retail Trade","Q4_high",2650,1.19521787765724
+"CNS07","Retail Trade","Q4_high",2700,1.19430680271708
+"CNS07","Retail Trade","Q4_high",2750,1.19269503334599
+"CNS07","Retail Trade","Q4_high",2800,1.19216622512652
+"CNS07","Retail Trade","Q4_high",2850,1.18989144384335
+"CNS07","Retail Trade","Q4_high",2900,1.18717496993915
+"CNS07","Retail Trade","Q4_high",2950,1.180255538509
+"CNS07","Retail Trade","Q4_high",3000,1.17832384169953
+"CNS07","Retail Trade","Q4_high",3050,1.17670399204829
+"CNS07","Retail Trade","Q4_high",3100,1.17439132502021
+"CNS07","Retail Trade","Q4_high",3150,1.1728594866673
+"CNS07","Retail Trade","Q4_high",3200,1.1690501208488
+"CNS07","Retail Trade","Q4_high",3250,1.16649327575259
+"CNS07","Retail Trade","Q4_high",3300,1.16797093179592
+"CNS07","Retail Trade","Q4_high",3350,1.16790934066753
+"CNS07","Retail Trade","Q4_high",3400,1.16623052176676
+"CNS07","Retail Trade","Q4_high",3450,1.16728117870342
+"CNS07","Retail Trade","Q4_high",3500,1.1662726347777
+"CNS07","Retail Trade","Q4_high",3550,1.1634725259251
+"CNS07","Retail Trade","Q4_high",3600,1.1625183621197
+"CNS07","Retail Trade","Q4_high",3650,1.16170554384026
+"CNS07","Retail Trade","Q4_high",3700,1.16017023509272
+"CNS07","Retail Trade","Q4_high",3750,1.15956551799282
+"CNS07","Retail Trade","Q4_high",3800,1.15852558774153
+"CNS07","Retail Trade","Q4_high",3850,1.15750067503112
+"CNS07","Retail Trade","Q4_high",3900,1.15910285418174
+"CNS07","Retail Trade","Q4_high",3950,1.1604670694103
+"CNS07","Retail Trade","Q4_high",4000,1.15810527916633
+"CNS07","Retail Trade","Q4_high",4050,1.15983361322554
+"CNS07","Retail Trade","Q4_high",4100,1.15663826404648
+"CNS07","Retail Trade","Q4_high",4150,1.15336089209715
+"CNS07","Retail Trade","Q4_high",4200,1.15343873929478
+"CNS07","Retail Trade","Q4_high",4250,1.15360534506196
+"CNS07","Retail Trade","Q4_high",4300,1.15154060678564
+"CNS07","Retail Trade","Q4_high",4350,1.15320514280243
+"CNS07","Retail Trade","Q4_high",4400,1.14999573499055
+"CNS07","Retail Trade","Q4_high",4450,1.15096745491908
+"CNS07","Retail Trade","Q4_high",4500,1.14958319002855
+"CNS07","Retail Trade","Q4_high",4550,1.14825619141744
+"CNS07","Retail Trade","Q4_high",4600,1.14656385601845
+"CNS07","Retail Trade","Q4_high",4650,1.14827413112506
+"CNS07","Retail Trade","Q4_high",4700,1.14765612434016
+"CNS07","Retail Trade","Q4_high",4750,1.14805408036174
+"CNS07","Retail Trade","Q4_high",4800,1.14911223127181
+"CNS07","Retail Trade","Q4_high",4850,1.14998397735362
+"CNS07","Retail Trade","Q4_high",4900,1.15173954951966
+"CNS07","Retail Trade","Q4_high",4950,1.15219678019776
+"CNS07","Retail Trade","Q4_high",5000,1.15323512785819
+"CNS19","Other Services","Q1_low",0,0
+"CNS19","Other Services","Q1_low",50,0
+"CNS19","Other Services","Q1_low",100,0.0394217555018635
+"CNS19","Other Services","Q1_low",150,0.141123524711873
+"CNS19","Other Services","Q1_low",200,0.222728609622173
+"CNS19","Other Services","Q1_low",250,0.380875720491848
+"CNS19","Other Services","Q1_low",300,0.500509954527202
+"CNS19","Other Services","Q1_low",350,0.562057797548107
+"CNS19","Other Services","Q1_low",400,0.624411446037336
+"CNS19","Other Services","Q1_low",450,0.738496085650669
+"CNS19","Other Services","Q1_low",500,0.784307440509442
+"CNS19","Other Services","Q1_low",550,0.901251929053076
+"CNS19","Other Services","Q1_low",600,0.938384665091613
+"CNS19","Other Services","Q1_low",650,0.994671126973222
+"CNS19","Other Services","Q1_low",700,0.996726460191064
+"CNS19","Other Services","Q1_low",750,1.05006138079917
+"CNS19","Other Services","Q1_low",800,1.08060872990978
+"CNS19","Other Services","Q1_low",850,1.09285774356745
+"CNS19","Other Services","Q1_low",900,1.10790671217663
+"CNS19","Other Services","Q1_low",950,1.12325478118385
+"CNS19","Other Services","Q1_low",1000,1.13371915222858
+"CNS19","Other Services","Q1_low",1050,1.15043307935624
+"CNS19","Other Services","Q1_low",1100,1.17438698131374
+"CNS19","Other Services","Q1_low",1150,1.15659466164667
+"CNS19","Other Services","Q1_low",1200,1.16121502716523
+"CNS19","Other Services","Q1_low",1250,1.16753624162896
+"CNS19","Other Services","Q1_low",1300,1.18541487915133
+"CNS19","Other Services","Q1_low",1350,1.17476064134021
+"CNS19","Other Services","Q1_low",1400,1.17514896421181
+"CNS19","Other Services","Q1_low",1450,1.18514928434113
+"CNS19","Other Services","Q1_low",1500,1.15442197869354
+"CNS19","Other Services","Q1_low",1550,1.14775177524567
+"CNS19","Other Services","Q1_low",1600,1.14922816112383
+"CNS19","Other Services","Q1_low",1650,1.16481317880006
+"CNS19","Other Services","Q1_low",1700,1.16197437203194
+"CNS19","Other Services","Q1_low",1750,1.16084042346983
+"CNS19","Other Services","Q1_low",1800,1.16539248201974
+"CNS19","Other Services","Q1_low",1850,1.17207861176425
+"CNS19","Other Services","Q1_low",1900,1.17440281308553
+"CNS19","Other Services","Q1_low",1950,1.17735760819894
+"CNS19","Other Services","Q1_low",2000,1.17746670830901
+"CNS19","Other Services","Q1_low",2050,1.17661212861674
+"CNS19","Other Services","Q1_low",2100,1.17209861991955
+"CNS19","Other Services","Q1_low",2150,1.16940874856279
+"CNS19","Other Services","Q1_low",2200,1.15763850962511
+"CNS19","Other Services","Q1_low",2250,1.1557901941653
+"CNS19","Other Services","Q1_low",2300,1.15713698359833
+"CNS19","Other Services","Q1_low",2350,1.16516089355089
+"CNS19","Other Services","Q1_low",2400,1.155369750872
+"CNS19","Other Services","Q1_low",2450,1.15090779154384
+"CNS19","Other Services","Q1_low",2500,1.15159091659116
+"CNS19","Other Services","Q1_low",2550,1.15673402260978
+"CNS19","Other Services","Q1_low",2600,1.15366836204186
+"CNS19","Other Services","Q1_low",2650,1.15462632850721
+"CNS19","Other Services","Q1_low",2700,1.14361316424127
+"CNS19","Other Services","Q1_low",2750,1.13521110183911
+"CNS19","Other Services","Q1_low",2800,1.13817394773311
+"CNS19","Other Services","Q1_low",2850,1.14326915416023
+"CNS19","Other Services","Q1_low",2900,1.13965210293218
+"CNS19","Other Services","Q1_low",2950,1.13675379009454
+"CNS19","Other Services","Q1_low",3000,1.13536293588868
+"CNS19","Other Services","Q1_low",3050,1.13301151491673
+"CNS19","Other Services","Q1_low",3100,1.13855073308511
+"CNS19","Other Services","Q1_low",3150,1.13368941848678
+"CNS19","Other Services","Q1_low",3200,1.13099619044868
+"CNS19","Other Services","Q1_low",3250,1.13045992030244
+"CNS19","Other Services","Q1_low",3300,1.12758650561008
+"CNS19","Other Services","Q1_low",3350,1.12935134050206
+"CNS19","Other Services","Q1_low",3400,1.12848933764432
+"CNS19","Other Services","Q1_low",3450,1.12819151355851
+"CNS19","Other Services","Q1_low",3500,1.12782800070626
+"CNS19","Other Services","Q1_low",3550,1.12420291059286
+"CNS19","Other Services","Q1_low",3600,1.12684864722322
+"CNS19","Other Services","Q1_low",3650,1.13019857179518
+"CNS19","Other Services","Q1_low",3700,1.13430024454021
+"CNS19","Other Services","Q1_low",3750,1.13001709689279
+"CNS19","Other Services","Q1_low",3800,1.12873864747354
+"CNS19","Other Services","Q1_low",3850,1.12716868671567
+"CNS19","Other Services","Q1_low",3900,1.12252443265625
+"CNS19","Other Services","Q1_low",3950,1.11548827203916
+"CNS19","Other Services","Q1_low",4000,1.11094311427173
+"CNS19","Other Services","Q1_low",4050,1.11225714408048
+"CNS19","Other Services","Q1_low",4100,1.11132780430327
+"CNS19","Other Services","Q1_low",4150,1.10918634806527
+"CNS19","Other Services","Q1_low",4200,1.11291727306058
+"CNS19","Other Services","Q1_low",4250,1.1135193853211
+"CNS19","Other Services","Q1_low",4300,1.11691354427938
+"CNS19","Other Services","Q1_low",4350,1.11180160635262
+"CNS19","Other Services","Q1_low",4400,1.10872532923371
+"CNS19","Other Services","Q1_low",4450,1.10660190779492
+"CNS19","Other Services","Q1_low",4500,1.10590304415725
+"CNS19","Other Services","Q1_low",4550,1.10335586465522
+"CNS19","Other Services","Q1_low",4600,1.10030706253306
+"CNS19","Other Services","Q1_low",4650,1.09996048854038
+"CNS19","Other Services","Q1_low",4700,1.09957362432009
+"CNS19","Other Services","Q1_low",4750,1.1006940103147
+"CNS19","Other Services","Q1_low",4800,1.10022879787287
+"CNS19","Other Services","Q1_low",4850,1.09759343822666
+"CNS19","Other Services","Q1_low",4900,1.0923681664545
+"CNS19","Other Services","Q1_low",4950,1.09016066092141
+"CNS19","Other Services","Q1_low",5000,1.09179127967713
+"CNS19","Other Services","Q2",0,0
+"CNS19","Other Services","Q2",50,0.00300663508076409
+"CNS19","Other Services","Q2",100,0.224783045632437
+"CNS19","Other Services","Q2",150,0.627073772254631
+"CNS19","Other Services","Q2",200,0.966570995103003
+"CNS19","Other Services","Q2",250,1.07948663560744
+"CNS19","Other Services","Q2",300,1.17084176615604
+"CNS19","Other Services","Q2",350,1.22634035316997
+"CNS19","Other Services","Q2",400,1.27504185269376
+"CNS19","Other Services","Q2",450,1.30940916561661
+"CNS19","Other Services","Q2",500,1.33782050341561
+"CNS19","Other Services","Q2",550,1.35804391173443
+"CNS19","Other Services","Q2",600,1.38021429977323
+"CNS19","Other Services","Q2",650,1.4007244097062
+"CNS19","Other Services","Q2",700,1.4358256971593
+"CNS19","Other Services","Q2",750,1.44543610154748
+"CNS19","Other Services","Q2",800,1.415984746575
+"CNS19","Other Services","Q2",850,1.41600990419859
+"CNS19","Other Services","Q2",900,1.4248688965766
+"CNS19","Other Services","Q2",950,1.43208785586586
+"CNS19","Other Services","Q2",1000,1.44415101349631
+"CNS19","Other Services","Q2",1050,1.44081275298214
+"CNS19","Other Services","Q2",1100,1.43271505741428
+"CNS19","Other Services","Q2",1150,1.44353074848867
+"CNS19","Other Services","Q2",1200,1.4424124745282
+"CNS19","Other Services","Q2",1250,1.44115386796283
+"CNS19","Other Services","Q2",1300,1.44536949264286
+"CNS19","Other Services","Q2",1350,1.44576418963872
+"CNS19","Other Services","Q2",1400,1.43789161741736
+"CNS19","Other Services","Q2",1450,1.4372477662174
+"CNS19","Other Services","Q2",1500,1.43245881583712
+"CNS19","Other Services","Q2",1550,1.430256081766
+"CNS19","Other Services","Q2",1600,1.4143253072638
+"CNS19","Other Services","Q2",1650,1.40582839912951
+"CNS19","Other Services","Q2",1700,1.4055939344759
+"CNS19","Other Services","Q2",1750,1.39274691032169
+"CNS19","Other Services","Q2",1800,1.38961147204974
+"CNS19","Other Services","Q2",1850,1.38545260028415
+"CNS19","Other Services","Q2",1900,1.38639912468181
+"CNS19","Other Services","Q2",1950,1.38016797619226
+"CNS19","Other Services","Q2",2000,1.38054501905919
+"CNS19","Other Services","Q2",2050,1.37752210819653
+"CNS19","Other Services","Q2",2100,1.37639416580326
+"CNS19","Other Services","Q2",2150,1.3707356788186
+"CNS19","Other Services","Q2",2200,1.36501410678995
+"CNS19","Other Services","Q2",2250,1.35814484579738
+"CNS19","Other Services","Q2",2300,1.35454510655958
+"CNS19","Other Services","Q2",2350,1.35543990692413
+"CNS19","Other Services","Q2",2400,1.34781487059191
+"CNS19","Other Services","Q2",2450,1.34259938680854
+"CNS19","Other Services","Q2",2500,1.33890674308095
+"CNS19","Other Services","Q2",2550,1.33887414610355
+"CNS19","Other Services","Q2",2600,1.33986732075739
+"CNS19","Other Services","Q2",2650,1.33522110006769
+"CNS19","Other Services","Q2",2700,1.33300212084832
+"CNS19","Other Services","Q2",2750,1.33083881685723
+"CNS19","Other Services","Q2",2800,1.32712461283431
+"CNS19","Other Services","Q2",2850,1.32333584864919
+"CNS19","Other Services","Q2",2900,1.32513506356828
+"CNS19","Other Services","Q2",2950,1.31680401686542
+"CNS19","Other Services","Q2",3000,1.31534580287451
+"CNS19","Other Services","Q2",3050,1.31564305807803
+"CNS19","Other Services","Q2",3100,1.31347473854335
+"CNS19","Other Services","Q2",3150,1.3067581349799
+"CNS19","Other Services","Q2",3200,1.3115426512032
+"CNS19","Other Services","Q2",3250,1.31022329048082
+"CNS19","Other Services","Q2",3300,1.30865794295514
+"CNS19","Other Services","Q2",3350,1.3068019850079
+"CNS19","Other Services","Q2",3400,1.3019816122539
+"CNS19","Other Services","Q2",3450,1.29767290361734
+"CNS19","Other Services","Q2",3500,1.29428282538847
+"CNS19","Other Services","Q2",3550,1.29248726384614
+"CNS19","Other Services","Q2",3600,1.28969322325421
+"CNS19","Other Services","Q2",3650,1.28876424839463
+"CNS19","Other Services","Q2",3700,1.28300971570706
+"CNS19","Other Services","Q2",3750,1.27896672297614
+"CNS19","Other Services","Q2",3800,1.27710582133496
+"CNS19","Other Services","Q2",3850,1.27315086073977
+"CNS19","Other Services","Q2",3900,1.2715033939564
+"CNS19","Other Services","Q2",3950,1.26872582009609
+"CNS19","Other Services","Q2",4000,1.26880851182545
+"CNS19","Other Services","Q2",4050,1.26595262840935
+"CNS19","Other Services","Q2",4100,1.26333394098991
+"CNS19","Other Services","Q2",4150,1.25979842564089
+"CNS19","Other Services","Q2",4200,1.25871012225741
+"CNS19","Other Services","Q2",4250,1.25662510478604
+"CNS19","Other Services","Q2",4300,1.2544663504543
+"CNS19","Other Services","Q2",4350,1.25206088663136
+"CNS19","Other Services","Q2",4400,1.25151131092749
+"CNS19","Other Services","Q2",4450,1.25123258440719
+"CNS19","Other Services","Q2",4500,1.24948347959929
+"CNS19","Other Services","Q2",4550,1.25028196839427
+"CNS19","Other Services","Q2",4600,1.24929907335835
+"CNS19","Other Services","Q2",4650,1.24944641061464
+"CNS19","Other Services","Q2",4700,1.25025994009294
+"CNS19","Other Services","Q2",4750,1.24974611822991
+"CNS19","Other Services","Q2",4800,1.24829555751384
+"CNS19","Other Services","Q2",4850,1.24575453723582
+"CNS19","Other Services","Q2",4900,1.24461278943053
+"CNS19","Other Services","Q2",4950,1.24239407717383
+"CNS19","Other Services","Q2",5000,1.24101009704423
+"CNS19","Other Services","Q3",0,0
+"CNS19","Other Services","Q3",50,0.00433899342018625
+"CNS19","Other Services","Q3",100,0.60784991636502
+"CNS19","Other Services","Q3",150,1.11507506378711
+"CNS19","Other Services","Q3",200,1.34669559381884
+"CNS19","Other Services","Q3",250,1.51835081258609
+"CNS19","Other Services","Q3",300,1.53274984090507
+"CNS19","Other Services","Q3",350,1.56812900558675
+"CNS19","Other Services","Q3",400,1.5549264497583
+"CNS19","Other Services","Q3",450,1.59059153648906
+"CNS19","Other Services","Q3",500,1.60099909964574
+"CNS19","Other Services","Q3",550,1.61005022246888
+"CNS19","Other Services","Q3",600,1.61402568071204
+"CNS19","Other Services","Q3",650,1.6388430246854
+"CNS19","Other Services","Q3",700,1.65092483299526
+"CNS19","Other Services","Q3",750,1.6477222907206
+"CNS19","Other Services","Q3",800,1.62894794083003
+"CNS19","Other Services","Q3",850,1.60701425806595
+"CNS19","Other Services","Q3",900,1.59076242097832
+"CNS19","Other Services","Q3",950,1.58724264009237
+"CNS19","Other Services","Q3",1000,1.58121945467662
+"CNS19","Other Services","Q3",1050,1.56575675022011
+"CNS19","Other Services","Q3",1100,1.5737554585383
+"CNS19","Other Services","Q3",1150,1.57155614268805
+"CNS19","Other Services","Q3",1200,1.56697620015605
+"CNS19","Other Services","Q3",1250,1.55687803794202
+"CNS19","Other Services","Q3",1300,1.54946715701116
+"CNS19","Other Services","Q3",1350,1.53629763612923
+"CNS19","Other Services","Q3",1400,1.5408237258889
+"CNS19","Other Services","Q3",1450,1.52624138939613
+"CNS19","Other Services","Q3",1500,1.52004232074874
+"CNS19","Other Services","Q3",1550,1.51317657725197
+"CNS19","Other Services","Q3",1600,1.50067322367072
+"CNS19","Other Services","Q3",1650,1.50115166848029
+"CNS19","Other Services","Q3",1700,1.4974989510919
+"CNS19","Other Services","Q3",1750,1.49564085185111
+"CNS19","Other Services","Q3",1800,1.48976208826816
+"CNS19","Other Services","Q3",1850,1.47771545706843
+"CNS19","Other Services","Q3",1900,1.47142301846146
+"CNS19","Other Services","Q3",1950,1.46828463994411
+"CNS19","Other Services","Q3",2000,1.45865143679498
+"CNS19","Other Services","Q3",2050,1.45359521578247
+"CNS19","Other Services","Q3",2100,1.45236384834453
+"CNS19","Other Services","Q3",2150,1.44457486290014
+"CNS19","Other Services","Q3",2200,1.43714665068665
+"CNS19","Other Services","Q3",2250,1.4358752635773
+"CNS19","Other Services","Q3",2300,1.4336789858469
+"CNS19","Other Services","Q3",2350,1.43152730444505
+"CNS19","Other Services","Q3",2400,1.42701330567491
+"CNS19","Other Services","Q3",2450,1.42475072741333
+"CNS19","Other Services","Q3",2500,1.42046876927937
+"CNS19","Other Services","Q3",2550,1.41517443800883
+"CNS19","Other Services","Q3",2600,1.4130723005566
+"CNS19","Other Services","Q3",2650,1.40797817284439
+"CNS19","Other Services","Q3",2700,1.40104256694747
+"CNS19","Other Services","Q3",2750,1.39400141154784
+"CNS19","Other Services","Q3",2800,1.38901514102226
+"CNS19","Other Services","Q3",2850,1.38246971007772
+"CNS19","Other Services","Q3",2900,1.37780494536038
+"CNS19","Other Services","Q3",2950,1.37421979933281
+"CNS19","Other Services","Q3",3000,1.36787995604152
+"CNS19","Other Services","Q3",3050,1.36466082436089
+"CNS19","Other Services","Q3",3100,1.36302407325377
+"CNS19","Other Services","Q3",3150,1.35885075829914
+"CNS19","Other Services","Q3",3200,1.35729354447989
+"CNS19","Other Services","Q3",3250,1.35234150829067
+"CNS19","Other Services","Q3",3300,1.3488020808877
+"CNS19","Other Services","Q3",3350,1.34658864494933
+"CNS19","Other Services","Q3",3400,1.33984521701659
+"CNS19","Other Services","Q3",3450,1.33875267214301
+"CNS19","Other Services","Q3",3500,1.33441420124963
+"CNS19","Other Services","Q3",3550,1.32998155511209
+"CNS19","Other Services","Q3",3600,1.3261662191963
+"CNS19","Other Services","Q3",3650,1.32296794202379
+"CNS19","Other Services","Q3",3700,1.32159857662881
+"CNS19","Other Services","Q3",3750,1.31930253240014
+"CNS19","Other Services","Q3",3800,1.31805890187295
+"CNS19","Other Services","Q3",3850,1.31488461122236
+"CNS19","Other Services","Q3",3900,1.31376119765918
+"CNS19","Other Services","Q3",3950,1.31372497746301
+"CNS19","Other Services","Q3",4000,1.31161262336465
+"CNS19","Other Services","Q3",4050,1.30895238245505
+"CNS19","Other Services","Q3",4100,1.30845063001227
+"CNS19","Other Services","Q3",4150,1.30732746357768
+"CNS19","Other Services","Q3",4200,1.3055211567235
+"CNS19","Other Services","Q3",4250,1.30399748348253
+"CNS19","Other Services","Q3",4300,1.30124175589783
+"CNS19","Other Services","Q3",4350,1.30030886386696
+"CNS19","Other Services","Q3",4400,1.29983063004621
+"CNS19","Other Services","Q3",4450,1.29795341645953
+"CNS19","Other Services","Q3",4500,1.29596537748887
+"CNS19","Other Services","Q3",4550,1.29349624368538
+"CNS19","Other Services","Q3",4600,1.29125623702669
+"CNS19","Other Services","Q3",4650,1.29137712148592
+"CNS19","Other Services","Q3",4700,1.28975120152237
+"CNS19","Other Services","Q3",4750,1.28951774877837
+"CNS19","Other Services","Q3",4800,1.28993091679931
+"CNS19","Other Services","Q3",4850,1.28825652591974
+"CNS19","Other Services","Q3",4900,1.28860928882704
+"CNS19","Other Services","Q3",4950,1.28755544339128
+"CNS19","Other Services","Q3",5000,1.28702160424393
+"CNS19","Other Services","Q4_high",0,0
+"CNS19","Other Services","Q4_high",50,0.198386515888
+"CNS19","Other Services","Q4_high",100,1.1903911733622
+"CNS19","Other Services","Q4_high",150,1.88858048695374
+"CNS19","Other Services","Q4_high",200,2.08348831722435
+"CNS19","Other Services","Q4_high",250,2.03523883802378
+"CNS19","Other Services","Q4_high",300,2.02632138741496
+"CNS19","Other Services","Q4_high",350,1.9664444463788
+"CNS19","Other Services","Q4_high",400,1.91202726718488
+"CNS19","Other Services","Q4_high",450,1.85143545803377
+"CNS19","Other Services","Q4_high",500,1.8013711463219
+"CNS19","Other Services","Q4_high",550,1.74350626052458
+"CNS19","Other Services","Q4_high",600,1.7183944109792
+"CNS19","Other Services","Q4_high",650,1.67825373380491
+"CNS19","Other Services","Q4_high",700,1.62996150112845
+"CNS19","Other Services","Q4_high",750,1.59439726845795
+"CNS19","Other Services","Q4_high",800,1.58193218725119
+"CNS19","Other Services","Q4_high",850,1.56541982332182
+"CNS19","Other Services","Q4_high",900,1.54563276665617
+"CNS19","Other Services","Q4_high",950,1.51989672386914
+"CNS19","Other Services","Q4_high",1000,1.49980445434889
+"CNS19","Other Services","Q4_high",1050,1.47940910266169
+"CNS19","Other Services","Q4_high",1100,1.46759317031403
+"CNS19","Other Services","Q4_high",1150,1.43830914311674
+"CNS19","Other Services","Q4_high",1200,1.41746589793788
+"CNS19","Other Services","Q4_high",1250,1.39815114030933
+"CNS19","Other Services","Q4_high",1300,1.3801344850542
+"CNS19","Other Services","Q4_high",1350,1.36287404012725
+"CNS19","Other Services","Q4_high",1400,1.35178310224588
+"CNS19","Other Services","Q4_high",1450,1.33689816022889
+"CNS19","Other Services","Q4_high",1500,1.32623256469663
+"CNS19","Other Services","Q4_high",1550,1.31071174005956
+"CNS19","Other Services","Q4_high",1600,1.29724221540927
+"CNS19","Other Services","Q4_high",1650,1.28854963417009
+"CNS19","Other Services","Q4_high",1700,1.27778565226652
+"CNS19","Other Services","Q4_high",1750,1.27400471493225
+"CNS19","Other Services","Q4_high",1800,1.26320757912275
+"CNS19","Other Services","Q4_high",1850,1.25722102226107
+"CNS19","Other Services","Q4_high",1900,1.24987640347478
+"CNS19","Other Services","Q4_high",1950,1.24524356783008
+"CNS19","Other Services","Q4_high",2000,1.23709294154804
+"CNS19","Other Services","Q4_high",2050,1.23358884470209
+"CNS19","Other Services","Q4_high",2100,1.23006027384686
+"CNS19","Other Services","Q4_high",2150,1.22245010039481
+"CNS19","Other Services","Q4_high",2200,1.2156118979928
+"CNS19","Other Services","Q4_high",2250,1.20872171022272
+"CNS19","Other Services","Q4_high",2300,1.20509666423461
+"CNS19","Other Services","Q4_high",2350,1.19918344330827
+"CNS19","Other Services","Q4_high",2400,1.19568216677245
+"CNS19","Other Services","Q4_high",2450,1.19263140372904
+"CNS19","Other Services","Q4_high",2500,1.18572572618483
+"CNS19","Other Services","Q4_high",2550,1.18222970868685
+"CNS19","Other Services","Q4_high",2600,1.1779776054899
+"CNS19","Other Services","Q4_high",2650,1.17578542276489
+"CNS19","Other Services","Q4_high",2700,1.17118335809379
+"CNS19","Other Services","Q4_high",2750,1.16946347550774
+"CNS19","Other Services","Q4_high",2800,1.16649006104323
+"CNS19","Other Services","Q4_high",2850,1.16330737464052
+"CNS19","Other Services","Q4_high",2900,1.15974096336719
+"CNS19","Other Services","Q4_high",2950,1.1572113706065
+"CNS19","Other Services","Q4_high",3000,1.15332064991724
+"CNS19","Other Services","Q4_high",3050,1.15032621433027
+"CNS19","Other Services","Q4_high",3100,1.14884878737676
+"CNS19","Other Services","Q4_high",3150,1.14476128441249
+"CNS19","Other Services","Q4_high",3200,1.14137547757934
+"CNS19","Other Services","Q4_high",3250,1.1394628989199
+"CNS19","Other Services","Q4_high",3300,1.13815014201138
+"CNS19","Other Services","Q4_high",3350,1.13630304166682
+"CNS19","Other Services","Q4_high",3400,1.13229205849016
+"CNS19","Other Services","Q4_high",3450,1.13067046253804
+"CNS19","Other Services","Q4_high",3500,1.12873490085453
+"CNS19","Other Services","Q4_high",3550,1.12656635660129
+"CNS19","Other Services","Q4_high",3600,1.1243187068335
+"CNS19","Other Services","Q4_high",3650,1.12205552827669
+"CNS19","Other Services","Q4_high",3700,1.12075026609585
+"CNS19","Other Services","Q4_high",3750,1.12007090561044
+"CNS19","Other Services","Q4_high",3800,1.11887872949114
+"CNS19","Other Services","Q4_high",3850,1.11763686214437
+"CNS19","Other Services","Q4_high",3900,1.11743055752206
+"CNS19","Other Services","Q4_high",3950,1.11743929936561
+"CNS19","Other Services","Q4_high",4000,1.1160399495064
+"CNS19","Other Services","Q4_high",4050,1.11408182597053
+"CNS19","Other Services","Q4_high",4100,1.11144323309294
+"CNS19","Other Services","Q4_high",4150,1.11105049405771
+"CNS19","Other Services","Q4_high",4200,1.11074881675743
+"CNS19","Other Services","Q4_high",4250,1.11036275353445
+"CNS19","Other Services","Q4_high",4300,1.11016402654207
+"CNS19","Other Services","Q4_high",4350,1.10889151884043
+"CNS19","Other Services","Q4_high",4400,1.10910672875243
+"CNS19","Other Services","Q4_high",4450,1.10744990215602
+"CNS19","Other Services","Q4_high",4500,1.10713477341991
+"CNS19","Other Services","Q4_high",4550,1.10580840485095
+"CNS19","Other Services","Q4_high",4600,1.1066118708333
+"CNS19","Other Services","Q4_high",4650,1.1057838459619
+"CNS19","Other Services","Q4_high",4700,1.10473056894041
+"CNS19","Other Services","Q4_high",4750,1.10358215759591
+"CNS19","Other Services","Q4_high",4800,1.10233232444035
+"CNS19","Other Services","Q4_high",4850,1.10088612372178
+"CNS19","Other Services","Q4_high",4900,1.10087777118893
+"CNS19","Other Services","Q4_high",4950,1.0990701166889
+"CNS19","Other Services","Q4_high",5000,1.09823624144437

@@ -1,0 +1,4 @@
+Level,Metric,Observed,Criterion,Statistical reference,Decision
+Sector,Spearman rho,0.15,0.5,one-tailed p = 0.276,Criterion not met
+Region,ARI,0.027,0.3,county-restricted p = 0.0005,Criterion not met
+Region,NMI,0.037,Supplementary,county-restricted p = 0.0005,Very low overlap

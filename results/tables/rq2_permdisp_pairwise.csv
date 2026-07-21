@@ -1,0 +1,7 @@
+pair,p_raw,p_BH,sig_BH
+Q1_low-Q2,0.0024,0.0029,True
+Q1_low-Q3,0.0001,0.0002,True
+Q1_low-Q4_high,0.0001,0.0002,True
+Q2-Q3,0.2878,0.2878,False
+Q2-Q4_high,0.0001,0.0002,True
+Q3-Q4_high,0.0001,0.0002,True

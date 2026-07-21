@@ -1,0 +1,17 @@
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.RData
+.RDataTmp
+.Rhistory
+.Rproj.user/
+*.Rproj
+*.log
+*.tmp
+~$*
+results/checkpoints/

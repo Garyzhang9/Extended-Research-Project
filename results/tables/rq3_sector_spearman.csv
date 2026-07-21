@@ -1,0 +1,2 @@
+statistic,rho,p_value_one_sided,comparison_value,meets_comparison,sectors,between_stratum_ss
+sector_spearman,0.1499486,0.2762962,0.50,False,18,2714.882

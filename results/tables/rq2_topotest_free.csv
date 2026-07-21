@@ -1,0 +1,7 @@
+pair,n,D_obs,null_median,p_raw,permutation,permutations,seed,p_BH,sig_BH
+Q1_low vs Q2,799,85.7492,35.13,0.0958,free,9999,14196142,0.1150,False
+Q1_low vs Q3,799,167.2711,32.07,0.0008,free,9999,14196142,0.0012,True
+Q1_low vs Q4_high,800,669.8175,39.06,0.0001,free,9999,14196142,0.0002,True
+Q2 vs Q3,798,53.5088,33.68,0.2827,free,9999,14196142,0.2827,False
+Q2 vs Q4_high,799,398.4947,39.35,0.0001,free,9999,14196142,0.0002,True
+Q3 vs Q4_high,799,293.0319,34.90,0.0001,free,9999,14196142,0.0002,True

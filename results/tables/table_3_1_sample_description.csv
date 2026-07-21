@@ -1,0 +1,5 @@
+Density stratum,Tracts,Density range (jobs/km2),Median density (jobs/km2),Total jobs,Share of state jobs (%),Main counties (tract count)
+Q1_low,400,0.54-93.64,32.74,328724,10.3,"Worcester (78), Plymouth (56), Middlesex (42)"
+Q2,399,93.95-327.95,188.06,561806,17.5,"Middlesex (95), Norfolk (60), Worcester (52)"
+Q3,399,331.79-994.95,565.3,675968,21.1,"Middlesex (101), Suffolk (69), Essex (55)"
+Q4_high,400,998.70-120030.51,2070.72,1636753,51.1,"Suffolk (137), Middlesex (115), Essex (36)"

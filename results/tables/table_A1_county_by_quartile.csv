@@ -1,0 +1,15 @@
+county_name,Q1_low,Q2,Q3,Q4_high,Total,n_quartiles_present
+Middlesex County,42,95,101,115,353,4
+Suffolk County,2,17,69,137,225,4
+Worcester County,78,52,31,30,191,4
+Essex County,36,46,55,36,173,4
+Norfolk County,20,60,44,30,154,4
+Bristol County,33,40,40,17,130,4
+Plymouth County,56,31,16,7,110,4
+Hampden County,23,30,30,20,103,4
+Barnstable County,39,15,1,1,56,4
+Berkshire County,30,3,4,2,39,4
+Hampshire County,21,4,7,3,35,4
+Franklin County,14,2,1,2,19,4
+Nantucket County,3,3,0,0,6,2
+Dukes County,3,1,0,0,4,2

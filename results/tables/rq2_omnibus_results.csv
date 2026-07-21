@@ -1,0 +1,5 @@
+test,permutation,statistic,R2,p_value,permutations,seed
+PERMANOVA,free,23.268,0.042,0.0001,9999,14196142
+PERMANOVA,county_restricted,23.268,0.042,0.0001,9999,14196142
+PERMDISP,free,55.764,,0.0001,9999,14196142
+PERMDISP,county_restricted,55.763,,0.0001,9999,14196142
